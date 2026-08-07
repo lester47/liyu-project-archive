@@ -1,0 +1,69 @@
+[
+  {
+    "id": "real-life",
+    "order": 1,
+    "title": "從真實生活問題出發",
+    "summary": "專題來自孩子身邊的健康、安全、學習、環境與生活需求，讓科技真正用來解決問題。",
+    "representativeProjects": [
+      "ventilation-butler",
+      "writing-wizard",
+      "lifesaver"
+    ]
+  },
+  {
+    "id": "local-culture",
+    "order": 2,
+    "title": "深度融合在地文化",
+    "summary": "將竹山竹材、鯉魚、土地公、日月潭與南投農產融入專題，發展具有地方特色的科技創作。",
+    "representativeProjects": [
+      "bamboo-fish-chimes",
+      "wishing-machine",
+      "lake-race"
+    ]
+  },
+  {
+    "id": "ai-evolution",
+    "order": 3,
+    "title": "從科學玩具走向AI科技",
+    "summary": "技術從基礎電路與機構，逐步發展到micro:bit、ESP32、物聯網、語音與影像辨識。",
+    "representativeProjects": [
+      "magic-stone",
+      "tree-hole",
+      "monkey-deterrent"
+    ]
+  },
+  {
+    "id": "iteration",
+    "order": 4,
+    "title": "重視作品持續迭代",
+    "summary": "同一件作品經過反覆測試、修正與升級，讓學生真正經歷設計思考與工程改良。",
+    "representativeProjects": [
+      "head-shake-v1",
+      "head-shake-v2",
+      "bamboo-fish-chimes",
+      "health-step"
+    ]
+  },
+  {
+    "id": "cross-disciplinary",
+    "order": 5,
+    "title": "跨域整合學習",
+    "summary": "專題融合科學、科技、工程、藝術、數學、體育、文化與語文，形成完整STEAM學習。",
+    "representativeProjects": [
+      "bamboo-fish-chimes",
+      "green-wheel",
+      "gesture-music"
+    ]
+  },
+  {
+    "id": "global-stage",
+    "order": 6,
+    "title": "讓偏鄉孩子走向國際",
+    "summary": "學生作品從校內課程走上全國與國際競賽舞臺，展現創意、科技力與自信。",
+    "representativeProjects": [
+      "head-shake-v2",
+      "monkey-go",
+      "tree-hole"
+    ]
+  }
+]

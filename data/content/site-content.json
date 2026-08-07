@@ -1,0 +1,19 @@
+{
+  "siteName": "鯉魚創意專題誌",
+  "englishName": "Liyu Creative Project Archive",
+  "heroTitle": "動手玩創意",
+  "heroSubtitle": "從生活問題出發，讓孩子用科技、文化與創意改變世界",
+  "brandStatements": [
+    "不是教孩子做作品，而是教孩子解決真問題。",
+    "不是把學科分開教，而是讓孩子整合起來做。",
+    "不是只看得獎，而是讓孩子具備面對未來的能力。"
+  ],
+  "motto": "永遠不要給孩子設限。",
+  "defaultTheme": "forest",
+  "themeNames": {
+    "sunny": "暖陽活力風",
+    "ocean": "海洋科技風",
+    "forest": "森林生態風",
+    "starlight": "星空夜光風"
+  }
+}

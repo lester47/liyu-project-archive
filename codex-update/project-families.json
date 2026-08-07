@@ -1,0 +1,46 @@
+[
+  {
+    "id": "head-shake-family",
+    "title": "搖頭晃腦家族",
+    "projectSlugs": [
+      "head-shake-v1",
+      "head-shake-v2",
+      "bamboo-fish-chimes"
+    ],
+    "summary": "從V1光感應互動竹樂器出發，持續發展自動演奏與編曲功能，最後形成V3竹魚編鐘；各版本技術與獎項分開保存。"
+  },
+  {
+    "id": "monkey-go-family",
+    "title": "猴子加油家族",
+    "projectSlugs": [
+      "monkey-go"
+    ],
+    "summary": "由索尼科學玩具版本持續改良，進一步參加IEYI並獲國際獎項。"
+  },
+  {
+    "id": "virus-family",
+    "title": "打擊病毒家族",
+    "projectSlugs": [
+      "virus-battle",
+      "save-earth-virus"
+    ],
+    "summary": "從2021年《打擊病毒大作戰》的隨機光感射擊科學玩具出發，2022年進一步發展為大型雙面遊戲版、發射裝置與多人展演方案《打擊病毒救地球》，呈現作品由競賽玩具走向公共互動與教育推廣的迭代歷程。"
+  },
+  {
+    "id": "health-step-family",
+    "title": "健康踏板家族",
+    "projectSlugs": [
+      "health-step",
+      "health-bamboo-step"
+    ],
+    "summary": "由壓力與姿態雙條件判斷，持續發展為結合竹材與AI協作開發的健康運動專題。"
+  },
+  {
+    "id": "lake-race-family",
+    "title": "日月潭環湖競跑家族",
+    "projectSlugs": [
+      "lake-race"
+    ],
+    "summary": "同一作品分別參與不同競賽，持續深化在地地景、健康促進與科技遊戲。"
+  }
+]

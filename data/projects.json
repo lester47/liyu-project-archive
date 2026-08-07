@@ -1,0 +1,1687 @@
+[
+  {
+    "id": "p2015-magic-stone",
+    "slug": "magic-stone",
+    "title": "神奇魔法石",
+    "yearStart": 2015,
+    "summary": "將光線感應、故事情境與遊戲機構結合的創意科學玩具。",
+    "problem": "讓學生透過可操作的遊戲理解光、電與機構原理。",
+    "concept": "利用感測與聲光回饋，將科學原理轉化為具故事性的互動玩具。",
+    "operation": "待補",
+    "technologies": [
+      "光敏電阻",
+      "基礎電路",
+      "LED",
+      "互動機構"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "科學玩具",
+      "互動設計"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2015,
+        "result": "冠軍"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第3屆索尼創意科學大賞",
+        "award": "冠軍",
+        "level": "national",
+        "year": 2015
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依歷年競賽檔案與對話整理"
+    ]
+  },
+  {
+    "id": "p2015-feeding-koi-light-show",
+    "slug": "feeding-koi-light-show",
+    "title": "炫光餵魚秀",
+    "yearStart": 2015,
+    "summary": "以鯉魚造型、燈光與餵魚互動呈現趣味科技裝置。",
+    "problem": "待補",
+    "concept": "將鯉魚意象與聲光互動結合。",
+    "operation": "待補",
+    "technologies": [
+      "LED",
+      "基礎電路",
+      "互動機構"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "科學玩具"
+    ],
+    "competitions": [
+      {
+        "name": "ASML發明家大賽",
+        "year": 2015,
+        "result": "亞軍、全球人氣獎"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "ASML發明家大賽",
+        "award": "亞軍",
+        "level": "international",
+        "year": 2015
+      },
+      {
+        "competition": "ASML發明家大賽",
+        "award": "全球人氣獎",
+        "level": "international",
+        "year": 2015
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "作品名稱與獎項依對話中已確認資料"
+    ]
+  },
+  {
+    "id": "p2016-electronic-santai",
+    "slug": "electronic-santai",
+    "title": "電音三太子",
+    "yearStart": 2016,
+    "summary": "將臺灣民俗文化中的三太子造型與音樂、燈光及動作機構結合。",
+    "problem": "讓傳統文化以兒童可操作的科技玩具形式重新呈現。",
+    "concept": "以民俗角色為主題，透過聲光與動作形成互動。",
+    "operation": "待補",
+    "technologies": [
+      "聲音播放",
+      "LED",
+      "馬達",
+      "機構設計"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "民俗科技"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2016,
+        "result": "優勝"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第4屆索尼創意科學大賞",
+        "award": "優勝",
+        "level": "national",
+        "year": 2016
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2017-koi-light",
+    "slug": "koi-light",
+    "title": "鯉魚炫光",
+    "yearStart": 2017,
+    "summary": "以鯉魚為主角，透過光影與互動設計呈現炫光效果。",
+    "problem": "待補",
+    "concept": "結合鯉魚造型、光影與科學玩具機構。",
+    "operation": "待補",
+    "technologies": [
+      "LED",
+      "光影原理",
+      "造型結構"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "科學玩具"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2017,
+        "result": "冠軍"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第5屆索尼創意科學大賞",
+        "award": "冠軍",
+        "level": "national",
+        "year": 2017
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2017-koi-king",
+    "slug": "koi-king",
+    "title": "鯉魚王",
+    "yearStart": 2017,
+    "summary": "以大型鯉魚造型發展具遊戲性與互動性的科學玩具。",
+    "problem": "待補",
+    "concept": "待補",
+    "operation": "待補",
+    "technologies": [
+      "機械結構",
+      "造型製作",
+      "互動設計"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "科學玩具"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2017,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第5屆索尼創意科學大賞",
+        "award": "佳作",
+        "level": "national",
+        "year": 2017
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2018-head-shake-v1",
+    "slug": "head-shake-v1",
+    "title": "搖頭晃腦 v1",
+    "yearStart": 2018,
+    "summary": "玩家利用頭部或身體搖晃控制遊戲，將人體動作轉換為操作指令。",
+    "problem": "讓身體動作成為科學玩具的控制方式。",
+    "concept": "透過動作或傾斜感測驅動遊戲回饋。",
+    "operation": "待補",
+    "technologies": [
+      "動作感測",
+      "傾斜判斷",
+      "聲光回饋"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "體感互動",
+      "科學玩具"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2018,
+        "result": "亞軍"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第6屆索尼創意科學大賞",
+        "award": "亞軍",
+        "level": "national",
+        "year": 2018
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "head-shake-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2019-head-shake-v2",
+    "slug": "head-shake-v2",
+    "title": "搖頭晃腦 v2",
+    "yearStart": 2019,
+    "summary": "改良第一代體感遊戲，使動作感測與回饋更加完整穩定。",
+    "problem": "提升第一代作品的感測穩定性與操作體驗。",
+    "concept": "將體感控制與機電整合進一步成熟化。",
+    "operation": "待補",
+    "technologies": [
+      "動作感測",
+      "微控制器",
+      "機電整合",
+      "聲光回饋"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "體感互動",
+      "工程改良"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2019,
+        "result": "金牌"
+      },
+      {
+        "name": "IEYI世界賽",
+        "year": 2019,
+        "result": "銀牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "金牌",
+        "level": "national",
+        "year": 2019
+      },
+      {
+        "competition": "IEYI世界賽",
+        "award": "銀牌",
+        "level": "international",
+        "year": 2019
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "head-shake-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依IEYI歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2019-bamboo-fish-chimes",
+    "slug": "bamboo-fish-chimes",
+    "title": "搖頭晃腦 v3－竹魚編鐘",
+    "yearStart": 2019,
+    "summary": "將體感控制轉化為竹製樂器演奏，融合竹山竹材、鯉魚意象、音樂與科技。",
+    "problem": "讓學生以身體動作控制竹製敲擊樂器。",
+    "concept": "運用感測與馬達機構敲擊竹材，形成互動音樂裝置。",
+    "operation": "待補",
+    "technologies": [
+      "竹材加工",
+      "微控制器",
+      "感測器",
+      "馬達",
+      "敲擊機構"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "竹材"
+    ],
+    "topics": [
+      "在地文化",
+      "音樂科技",
+      "機電整合"
+    ],
+    "competitions": [
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2019,
+        "result": "機電整合組全國冠軍"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "首屆國教署科技教育創意實作競賽",
+        "award": "機電整合組全國冠軍",
+        "level": "national",
+        "year": 2019
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": "head-shake-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依國教署歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2019-monkey-go",
+    "slug": "monkey-go",
+    "title": "猴子加油",
+    "yearStart": 2019,
+    "yearEnd": 2020,
+    "summary": "以猴子角色與體感遊戲為主題，後續改良為IEYI發明作品。",
+    "problem": "待補",
+    "concept": "透過玩家動作帶動角色與遊戲互動。",
+    "operation": "待補",
+    "technologies": [
+      "動作感測",
+      "微控制器",
+      "機械結構",
+      "聲光回饋"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "體感互動",
+      "作品迭代"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2019,
+        "result": "遠哲科學教育特別獎"
+      },
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2020,
+        "result": "金牌"
+      },
+      {
+        "name": "IEYI世界賽",
+        "year": 2020,
+        "result": "銅牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第7屆索尼創意科學大賞",
+        "award": "遠哲科學教育特別獎",
+        "level": "national",
+        "year": 2019
+      },
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "金牌",
+        "level": "national",
+        "year": 2020
+      },
+      {
+        "competition": "IEYI世界賽",
+        "award": "銅牌",
+        "level": "international",
+        "year": 2020
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "monkey-go-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼及IEYI歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2020-eight-harmony",
+    "slug": "eight-harmony",
+    "title": "八部合音",
+    "yearStart": 2020,
+    "summary": "以多組聲部或裝置共同完成音樂演奏，強調合作與聲部整合。",
+    "problem": "待補",
+    "concept": "結合多組裝置形成合作型音樂科技作品。",
+    "operation": "待補",
+    "technologies": [
+      "節奏",
+      "聲音",
+      "微控制器",
+      "機械敲擊"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "音樂科技",
+      "團隊合作"
+    ],
+    "competitions": [
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2020,
+        "result": "全國佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "全國佳作",
+        "level": "national",
+        "year": 2020
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依國教署歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2021-ventilation-butler",
+    "slug": "ventilation-butler",
+    "title": "通風報信妙管家",
+    "yearStart": 2021,
+    "summary": "偵測教室通風或空氣狀況，在環境不佳時主動提醒改善通風。",
+    "problem": "回應疫情期間教室通風與健康安全需求。",
+    "concept": "透過環境感測器與聲光提示提醒開窗換氣。",
+    "operation": "待補",
+    "technologies": [
+      "環境感測",
+      "空氣品質",
+      "聲光警示",
+      "微控制器"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "健康",
+      "環境",
+      "安全"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2021,
+        "result": "銀牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "銀牌",
+        "level": "national",
+        "year": 2021
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依IEYI歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2021-koi-play-big",
+    "slug": "koi-play-big",
+    "title": "鯉魚玩很大",
+    "yearStart": 2021,
+    "summary": "以鯉魚造型與在地意象設計多人操作的互動遊戲。",
+    "problem": "待補",
+    "concept": "待補",
+    "operation": "待補",
+    "technologies": [
+      "感測器",
+      "遊戲機構",
+      "燈光"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "互動遊戲"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2021,
+        "result": "優勝"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第9屆索尼創意科學大賞",
+        "award": "優勝",
+        "level": "national",
+        "year": 2021
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2021-virus-battle",
+    "slug": "virus-battle",
+    "title": "打擊病毒大作戰",
+    "yearStart": 2021,
+    "summary": "玩家利用光線或互動機構打擊病毒，將防疫觀念轉化為遊戲。",
+    "problem": "把疫情生活經驗轉化為健康教育遊戲。",
+    "concept": "利用光敏元件、micro:bit及伺服馬達形成射擊或瞄準互動。",
+    "operation": "待補",
+    "technologies": [
+      "光敏電阻",
+      "micro:bit",
+      "伺服馬達",
+      "條件判斷"
+    ],
+    "hardware": [
+      "micro:bit",
+      "光敏電阻",
+      "伺服馬達"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "健康",
+      "防疫",
+      "互動遊戲"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2021,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第9屆索尼創意科學大賞",
+        "award": "佳作",
+        "level": "national",
+        "year": 2021
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "virus-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼資料與對話中技術說明整理"
+    ]
+  },
+  {
+    "id": "p2022-writing-wizard",
+    "slug": "writing-wizard",
+    "title": "寫字魔法師",
+    "yearStart": 2022,
+    "summary": "協助學生改善寫字姿勢、握筆或書寫操作，提供即時回饋。",
+    "problem": "回應國小學生書寫學習需求。",
+    "concept": "運用感測與聲光提醒形成書寫輔具。",
+    "operation": "待補",
+    "technologies": [
+      "壓力感測",
+      "傾斜感測",
+      "微控制器",
+      "聲光提醒"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "學習輔具",
+      "教育科技"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2022,
+        "result": "銅牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "銅牌",
+        "level": "national",
+        "year": 2022
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依IEYI歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2022-follow-light-bamboo",
+    "slug": "follow-light-bamboo",
+    "title": "逐光！竹光！",
+    "yearStart": 2022,
+    "summary": "以竹材與光線感測設計追光或光影互動遊戲。",
+    "problem": "待補",
+    "concept": "結合竹山竹材、光敏元件與馬達形成追光裝置。",
+    "operation": "待補",
+    "technologies": [
+      "竹材",
+      "光敏電阻",
+      "微控制器",
+      "馬達"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "竹材"
+    ],
+    "topics": [
+      "在地文化",
+      "光電科技"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2022,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第10屆索尼創意科學大賞",
+        "award": "佳作",
+        "level": "national",
+        "year": 2022
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依索尼歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2022-save-earth-virus",
+    "slug": "save-earth-virus",
+    "title": "打擊病毒救地球",
+    "yearStart": 2022,
+    "summary": "延伸病毒主題，以遊戲化任務表達防疫與環境關懷。",
+    "problem": "待補",
+    "concept": "將原有打擊病毒作品延伸為完整創客方案。",
+    "operation": "待補",
+    "technologies": [
+      "光感應",
+      "互動裝置",
+      "程式控制"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "健康",
+      "環境",
+      "創客教育"
+    ],
+    "competitions": [
+      {
+        "name": "親子天下Maker Party小孩創作大賞",
+        "year": 2022,
+        "result": "最佳方案"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "親子天下Maker Party小孩創作大賞",
+        "award": "最佳方案",
+        "level": "national",
+        "year": 2022
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "virus-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話中已確認資料"
+    ]
+  },
+  {
+    "id": "p2023-lifesaver",
+    "slug": "lifesaver",
+    "title": "救命恩人",
+    "yearStart": 2023,
+    "summary": "針對危險或緊急情境，設計提醒、求救或協助救援的裝置。",
+    "problem": "改善生活中的緊急求救與安全問題。",
+    "concept": "運用感測、警報或通訊形成安全輔助裝置。",
+    "operation": "待補",
+    "technologies": [
+      "感測器",
+      "警報",
+      "通訊"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "安全",
+      "社會關懷"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2023,
+        "result": "銀牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "銀牌",
+        "level": "national",
+        "year": 2023
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依IEYI歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2023-move-move",
+    "slug": "move-move",
+    "title": "動次動次動－要活就要動",
+    "yearStart": 2023,
+    "summary": "以節奏、音樂與身體動作鼓勵學生增加運動量。",
+    "problem": "提升兒童身體活動與健康意識。",
+    "concept": "將動作感測、音樂與分數回饋整合成體感運動遊戲。",
+    "operation": "待補",
+    "technologies": [
+      "micro:bit",
+      "加速度感測",
+      "動作判斷",
+      "音樂",
+      "LED"
+    ],
+    "hardware": [
+      "micro:bit"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "健康",
+      "運動科技"
+    ],
+    "competitions": [
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2023,
+        "result": "縣賽第一名、全國入選獎"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "縣賽第一名",
+        "level": "county",
+        "year": 2023
+      },
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "全國入選獎",
+        "level": "national",
+        "year": 2023
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依國教署歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2023-green-wheel",
+    "slug": "green-wheel",
+    "title": "綠輪騎跡追風趣",
+    "yearStart": 2023,
+    "summary": "自行車騎乘同時產生電能，記錄行程並計算減碳成果。",
+    "problem": "讓學生理解綠色交通、能源與碳排議題。",
+    "concept": "整合自行車發電、GPS與碳排計算。",
+    "operation": "待補",
+    "technologies": [
+      "自行車發電",
+      "GPS",
+      "里程感測",
+      "碳排計算",
+      "App或網頁"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "綠色交通",
+      "能源",
+      "環境"
+    ],
+    "competitions": [
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2023,
+        "result": "縣賽第一名、全國佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "縣賽第一名",
+        "level": "county",
+        "year": 2023
+      },
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "全國佳作",
+        "level": "national",
+        "year": 2023
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依國教署歷屆資料整理"
+    ]
+  },
+  {
+    "id": "p2024-health-step",
+    "slug": "health-step",
+    "title": "健康拾足踏板",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "summary": "同時判斷正確踩踏與身體姿勢，透過音樂與健康幣鼓勵運動。",
+    "problem": "避免只計算踩踏次數而忽略動作品質。",
+    "concept": "採用壓力與姿態雙條件觸發，提升運動品質。",
+    "operation": "踩踏壓力與指定姿態同時成立才計分。",
+    "technologies": [
+      "壓力感測",
+      "姿態判斷",
+      "雙條件觸發",
+      "音樂引導",
+      "遊戲化"
+    ],
+    "hardware": [
+      "壓力感測器",
+      "待補"
+    ],
+    "materials": [
+      "踏板",
+      "待補"
+    ],
+    "topics": [
+      "健康",
+      "運動科技"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2024,
+        "result": "佳作"
+      },
+      {
+        "name": "第3屆麥克松科技實作競賽",
+        "year": 2025,
+        "result": "金獎"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "佳作",
+        "level": "national",
+        "year": 2024
+      },
+      {
+        "competition": "第3屆麥克松科技實作競賽",
+        "award": "金獎",
+        "level": "county",
+        "year": 2025
+      }
+    ],
+    "status": "improving",
+    "featured": true,
+    "familyId": "health-step-family",
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依IEYI與麥克松資料、對話技術說明整理"
+    ]
+  },
+  {
+    "id": "p2024-smart-rope",
+    "slug": "smart-rope",
+    "title": "跳大繩智慧教練",
+    "yearStart": 2024,
+    "summary": "判斷多人跳大繩是否同步起跳與落地，協助調整團隊節奏。",
+    "problem": "多人跳繩同步程度難以量化。",
+    "concept": "以多組壓力地墊記錄時間差並回饋同步程度。",
+    "operation": "6至8位學生踩踏壓力地墊，系統比較起跳與落地時間。",
+    "technologies": [
+      "壓力地墊",
+      "時間差分析",
+      "同步判斷",
+      "聲光回饋"
+    ],
+    "hardware": [
+      "壓力感測器",
+      "待補"
+    ],
+    "materials": [
+      "壓力地墊"
+    ],
+    "topics": [
+      "運動科技",
+      "團隊合作"
+    ],
+    "competitions": [
+      {
+        "name": "第2屆麥克松科技實作競賽",
+        "year": 2024,
+        "result": "乙組銀獎"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第2屆麥克松科技實作競賽",
+        "award": "乙組銀獎",
+        "level": "county",
+        "year": 2024
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依麥克松資料整理"
+    ]
+  },
+  {
+    "id": "p2024-green-energy-manager",
+    "slug": "green-energy-manager",
+    "title": "綠能管家",
+    "yearStart": 2024,
+    "summary": "整合智慧家電控制、生電資料監控與家庭用電監控，協助家庭掌握能源使用、提升再生能源利用並減少浪費。",
+    "problem": "家庭用電持續增加，若缺乏即時監控與管理，容易產生不必要的能源浪費；太陽能發電與各項家電用電也需要更清楚的數據協助判斷。",
+    "concept": "以凱比機器人語音控制家電，並分別監測太陽能生電與家庭用電資料，再透過雲端圖表與異常通知形成完整的智慧能源管理系統。",
+    "operation": "語音或遠端指令經 MQTT 傳送至微控制器控制家電；太陽能與用電感測資料由 ESP32 收集、計算並上傳 Google Sheets，供使用者查看趨勢，異常時發出通知。",
+    "technologies": [
+      "凱比機器人",
+      "語音辨識",
+      "MQTT",
+      "micro:bit",
+      "ESP32",
+      "交流電流感測",
+      "太陽能發電監測",
+      "Google Sheets",
+      "Wi-Fi",
+      "異常通知"
+    ],
+    "hardware": [
+      "凱比機器人",
+      "micro:bit",
+      "ESP32",
+      "繼電器",
+      "Gravity 類比型交流電流感測器",
+      "太陽能發電感測裝置"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "家庭節能",
+      "再生能源",
+      "智慧家庭",
+      "淨零排放"
+    ],
+    "competitions": [
+      {
+        "name": "第2屆麥克松科技實作競賽",
+        "year": 2024,
+        "result": "甲組銅質獎"
+      },
+      {
+        "name": "第2屆麥克松科技實作競賽",
+        "year": 2024,
+        "result": "最佳人氣獎"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "第2屆麥克松科技實作競賽",
+        "award": "甲組銅質獎",
+        "level": "county",
+        "year": 2024
+      },
+      {
+        "competition": "第2屆麥克松科技實作競賽",
+        "award": "最佳人氣獎",
+        "level": "county",
+        "year": 2024
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依《綠能管家 智慧生活》科技教育創意實作競賽企畫書整理",
+      "競賽與獎項依使用者提供之第2屆麥克松科技教育創意競賽照片核對"
+    ]
+  },
+  {
+    "id": "p2024-wishing-machine",
+    "slug": "wishing-machine",
+    "title": "許願機",
+    "yearStart": 2024,
+    "summary": "融合土地公信仰、求籤、擲筊、竹編QR Code、語音祝福與趣味機構。",
+    "problem": "如何讓傳統民俗文化以兒童可理解的科技互動方式重新呈現。",
+    "concept": "許願後以雞蛋滾珠機構抽籤，再由micro:bit判斷擲筊結果，最後播放語音祝福。",
+    "operation": "許願 → 雞蛋滾珠抽籤 → 擲筊 → micro:bit判斷聖筊、笑筊或陰筊 → 土地公動作 → QR Code語音祝福。",
+    "technologies": [
+      "竹編QR Code",
+      "micro:bit",
+      "加速度感測",
+      "凸輪軸",
+      "滾珠機構",
+      "語音播放"
+    ],
+    "hardware": [
+      "micro:bit",
+      "語音播放裝置",
+      "待補"
+    ],
+    "materials": [
+      "竹片",
+      "紙板",
+      "木作結構"
+    ],
+    "topics": [
+      "在地文化",
+      "民俗科技",
+      "機構設計"
+    ],
+    "competitions": [
+      {
+        "name": "第11屆索尼創意科學大賞",
+        "year": 2024,
+        "result": "參賽，未進前20名"
+      }
+    ],
+    "awards": [],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依使用者補充與照片確認"
+    ]
+  },
+  {
+    "id": "p2025-tree-hole",
+    "slug": "tree-hole",
+    "title": "樹洞",
+    "yearStart": 2025,
+    "summary": "學生對裝置說出心情，系統辨識語音與情緒，再以燈光回應。",
+    "problem": "協助兒童以臺語或中文表達情緒與獲得支持。",
+    "concept": "將語音辨識、情緒分析與LED回饋整合成情緒陪伴裝置。",
+    "operation": "錄音 → 臺語ASR → 情緒分析 → LED回饋。",
+    "technologies": [
+      "ESP32",
+      "錄音",
+      "臺語ASR",
+      "AI情緒分析",
+      "LED"
+    ],
+    "hardware": [
+      "ESP32",
+      "麥克風",
+      "LED"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "情緒教育",
+      "AI",
+      "臺語"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2025,
+        "result": "金牌"
+      },
+      {
+        "name": "IYIA印尼國際青少年發明展",
+        "year": 2025,
+        "result": "銀牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "金牌",
+        "level": "national",
+        "year": 2025
+      },
+      {
+        "competition": "IYIA印尼國際青少年發明展",
+        "award": "銀牌",
+        "level": "international",
+        "year": 2025
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話與競賽資料整理"
+    ]
+  },
+  {
+    "id": "p2025-light-race",
+    "slug": "light-race",
+    "title": "鯉魚島光速競跑",
+    "yearStart": 2025,
+    "summary": "兩位玩家以體感操作紅、綠光點，在LED賽道上競速。",
+    "problem": "將運動與光影競速轉化為可展示的互動遊戲。",
+    "concept": "使用micro:bit控制WS2812燈條上的紅綠光點競速。",
+    "operation": "兩位玩家以動作控制各自光點前進。",
+    "technologies": [
+      "micro:bit",
+      "加速度感測",
+      "WS2812",
+      "雙人競賽"
+    ],
+    "hardware": [
+      "micro:bit",
+      "WS2812燈條"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "運動科技",
+      "光影互動"
+    ],
+    "competitions": [
+      {
+        "name": "索尼創意科學大賞",
+        "year": 2025,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "索尼創意科學大賞",
+        "award": "佳作",
+        "level": "national",
+        "year": 2025
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話與索尼資料整理"
+    ]
+  },
+  {
+    "id": "p2025-lake-race",
+    "slug": "lake-race",
+    "title": "日月潭環湖競跑",
+    "yearStart": 2025,
+    "yearEnd": 2026,
+    "summary": "將日月潭環湖地景轉化為體感競跑遊戲。",
+    "problem": "結合在地地景、健康促進與科技遊戲。",
+    "concept": "玩家以體感或踩踏推進虛擬環湖路線。",
+    "operation": "待補",
+    "technologies": [
+      "micro:bit",
+      "加速度感測",
+      "無線通訊",
+      "里程計算"
+    ],
+    "hardware": [
+      "micro:bit",
+      "待補"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "在地文化",
+      "運動科技"
+    ],
+    "competitions": [
+      {
+        "name": "麥克松科技實作競賽",
+        "year": 2025,
+        "result": "金獎"
+      },
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2026,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "麥克松科技實作競賽",
+        "award": "金獎",
+        "level": "county",
+        "year": 2025
+      },
+      {
+        "competition": "國教署科技教育創意實作競賽",
+        "award": "佳作",
+        "level": "national",
+        "year": 2026
+      }
+    ],
+    "status": "completed",
+    "featured": false,
+    "familyId": "lake-race-family",
+    "verificationStatus": "partial",
+    "sourceNotes": [
+      "獎項依前述資料整理，競賽正式屆次待補"
+    ]
+  },
+  {
+    "id": "p2026-ai-food-race",
+    "slug": "ai-food-race",
+    "title": "AI食農大使競跑",
+    "yearStart": 2026,
+    "summary": "透過踩踏與手腕晃動，在南投十三鄉鎮進行體感競跑並認識代表農產。",
+    "problem": "讓學生在運動遊戲中認識南投食農與地方特色。",
+    "concept": "三片micro:bit分別作為兩位選手與裁判，資料透過ESP32、MQTT傳至網頁。",
+    "operation": "A、B選手端以踩踏與晃動累積進度；C裁判端倒數與判定；資料上傳網頁即時顯示。",
+    "technologies": [
+      "micro:bit",
+      "radio群組87",
+      "壓力踏板",
+      "UART",
+      "ESP32",
+      "Wi-Fi",
+      "MQTT",
+      "GitHub Pages"
+    ],
+    "hardware": [
+      "3片micro:bit",
+      "ESP32",
+      "壓力踏板"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "食農教育",
+      "物聯網",
+      "運動科技"
+    ],
+    "competitions": [
+      {
+        "name": "第4屆麥克松科技實作競賽",
+        "year": 2026,
+        "result": "專題"
+      }
+    ],
+    "awards": [],
+    "status": "developing",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "partial",
+    "sourceNotes": [
+      "依對話技術紀錄整理，正式競賽結果待補"
+    ]
+  },
+  {
+    "id": "p2026-monkey-deterrent",
+    "slug": "monkey-deterrent",
+    "title": "猴不來",
+    "yearStart": 2026,
+    "summary": "辨識猴子後啟動聲音與爆閃燈驅趕，人類通過時保持安靜。",
+    "problem": "降低猴害並避免一般驅猴器誤觸人類。",
+    "concept": "以AI影像辨識區分猴子與人類，再控制聲光裝置。",
+    "operation": "影像辨識 → 猴子：播放驅趕聲並爆閃；人類：靜默。",
+    "technologies": [
+      "ESP32",
+      "HuskyLens 2",
+      "UART 9600",
+      "YOLOv8",
+      "ONNX",
+      "DFPlayer Mini",
+      "爆閃燈"
+    ],
+    "hardware": [
+      "ESP32",
+      "HuskyLens 2",
+      "DFPlayer Mini",
+      "爆閃燈"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "AI影像辨識",
+      "安全",
+      "農業"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2026,
+        "result": "銅牌"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "銅牌",
+        "level": "national",
+        "year": 2026
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話與競賽資料整理"
+    ]
+  },
+  {
+    "id": "p2026-kebbi-emotion",
+    "slug": "kebbi-emotion",
+    "title": "凱比心感機",
+    "yearStart": 2026,
+    "summary": "兒童與凱比機器人對話，系統辨識情緒並以表情與語音回應。",
+    "problem": "支持兒童情緒表達與陪伴。",
+    "concept": "將中文語音辨識、情緒分析與Kebbi機器人表情控制整合。",
+    "operation": "對話 → 語音辨識 → 喜怒哀樂平靜分類 → 機器人回應。",
+    "technologies": [
+      "Kebbi",
+      "中文語音辨識",
+      "自然語言處理",
+      "AI情緒分析"
+    ],
+    "hardware": [
+      "Kebbi機器人"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "情緒教育",
+      "社會照護",
+      "AI"
+    ],
+    "competitions": [
+      {
+        "name": "IEYI臺灣選拔",
+        "year": 2026,
+        "result": "佳作"
+      }
+    ],
+    "awards": [
+      {
+        "competition": "IEYI臺灣選拔",
+        "award": "佳作",
+        "level": "national",
+        "year": 2026
+      }
+    ],
+    "status": "completed",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話與競賽資料整理；黃俊毓老師主要負責"
+    ]
+  },
+  {
+    "id": "p2026-pickleball-coach",
+    "slug": "pickleball-coach",
+    "title": "匹克球智慧教練",
+    "yearStart": 2026,
+    "summary": "協助初學者練習正拍抽球，辨識常見動作錯誤並即時回饋。",
+    "problem": "初學者難以自行判斷正拍抽球動作錯誤。",
+    "concept": "以micro:bit護腕蒐集動作資料，判斷揮拍與錯誤類型。",
+    "operation": "準備 → 監視揮拍 → 判斷正確或錯誤類型 → 回饋 → 回到準備。",
+    "technologies": [
+      "micro:bit",
+      "加速度感測",
+      "動作特徵",
+      "radio廣播",
+      "Android平板"
+    ],
+    "hardware": [
+      "micro:bit護腕",
+      "Android平板或第二片micro:bit"
+    ],
+    "materials": [
+      "護腕",
+      "待補"
+    ],
+    "topics": [
+      "運動科技",
+      "AI協作開發"
+    ],
+    "competitions": [
+      {
+        "name": "國教署科技教育創意實作競賽",
+        "year": 2026,
+        "result": "準備中"
+      }
+    ],
+    "awards": [],
+    "status": "developing",
+    "featured": true,
+    "familyId": null,
+    "verificationStatus": "partial",
+    "sourceNotes": [
+      "仍在開發與實測中"
+    ]
+  },
+  {
+    "id": "p2026-health-bamboo-step",
+    "slug": "health-bamboo-step",
+    "title": "健康竹踏板",
+    "yearStart": 2026,
+    "summary": "延續健康踏板概念，結合竹材與AI協作開發的健康運動專題。",
+    "problem": "待補",
+    "concept": "作為學生在教師遠距與實體指導下，逐步使用Codex開發的案例。",
+    "operation": "待補",
+    "technologies": [
+      "壓力感測",
+      "姿態判斷",
+      "Codex協作開發"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "竹材",
+      "踏板"
+    ],
+    "topics": [
+      "健康",
+      "運動科技",
+      "AI自主學習"
+    ],
+    "competitions": [],
+    "awards": [],
+    "status": "developing",
+    "featured": true,
+    "familyId": "health-step-family",
+    "verificationStatus": "pending",
+    "sourceNotes": [
+      "仍在發展中，細節待持續補充"
+    ]
+  },
+  {
+    "id": "p2026-stellar-mission",
+    "slug": "stellar-mission",
+    "title": "啟動星際任務",
+    "yearStart": 2026,
+    "summary": "以未來世界、外星文明與能量球為故事，設計三道互動闖關任務。",
+    "problem": "待補",
+    "concept": "透過科幻故事結合感測器、燈光、馬達與關卡設計。",
+    "operation": "三關卡能量球任務，細節待補。",
+    "technologies": [
+      "感測器",
+      "燈光",
+      "馬達",
+      "關卡機構"
+    ],
+    "hardware": [
+      "待補"
+    ],
+    "materials": [
+      "能量球",
+      "待補"
+    ],
+    "topics": [
+      "科學玩具",
+      "科幻教育"
+    ],
+    "competitions": [
+      {
+        "name": "第14屆索尼創意科學大賞",
+        "year": 2026,
+        "result": "參賽作品"
+      }
+    ],
+    "awards": [],
+    "status": "developing",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "partial",
+    "sourceNotes": [
+      "依對話與索尼資料整理"
+    ]
+  },
+  {
+    "id": "p2026-gesture-music",
+    "slug": "gesture-music",
+    "title": "九宮格手勢互動音樂",
+    "yearStart": 2026,
+    "summary": "九種手勢對應九個音階，手勢出現時同步播放音符與LED漣漪。",
+    "problem": "以手勢控制音樂與燈光，創造新的互動演奏方式。",
+    "concept": "AI手勢辨識經網頁與MQTT控制ESP32燈板。",
+    "operation": "辨識九種手勢 → 播放音階 → MQTT傳送 → 16×16 LED燈板顯示不同色漣漪。",
+    "technologies": [
+      "AI手勢辨識",
+      "網頁",
+      "MQTT",
+      "ESP32",
+      "16×16 LED燈板"
+    ],
+    "hardware": [
+      "ESP32",
+      "16×16 LED燈板"
+    ],
+    "materials": [
+      "待補"
+    ],
+    "topics": [
+      "音樂科技",
+      "AI",
+      "物聯網"
+    ],
+    "competitions": [],
+    "awards": [],
+    "status": "developing",
+    "featured": false,
+    "familyId": null,
+    "verificationStatus": "verified",
+    "sourceNotes": [
+      "依對話技術紀錄整理"
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound() { return <section className="page-shell grid min-h-[60vh] place-items-center py-16 text-center"><div><p className="text-8xl font-black text-primary/20">404</p><h1 className="mt-4 text-3xl font-black text-ink">這個創意還沒被找到</h1><p className="mt-3 text-muted">頁面可能已移動，或網址不小心多繞了一圈。</p><div className="mt-7 flex justify-center gap-3"><Link href="/" className="button-primary">回到首頁</Link><Link href="/projects" className="button-secondary">瀏覽專題</Link></div></div></section>; }

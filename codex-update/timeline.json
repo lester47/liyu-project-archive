@@ -1,0 +1,65 @@
+[
+  {
+    "id": "stage-1",
+    "yearStart": 2015,
+    "yearEnd": 2017,
+    "title": "科學玩具奠基",
+    "summary": "從光影、電路、LED、造型與基礎機構開始，建立動手做與科學玩具的課程基礎。",
+    "representativeProjects": [
+      "magic-stone",
+      "electronic-santai",
+      "koi-light"
+    ]
+  },
+  {
+    "id": "stage-2",
+    "yearStart": 2018,
+    "yearEnd": 2020,
+    "title": "體感與機電整合",
+    "summary": "導入動作感測、微控制器、馬達、竹製樂器與程式控制。",
+    "representativeProjects": [
+      "head-shake-v1",
+      "head-shake-v2",
+      "bamboo-fish-chimes",
+      "monkey-go"
+    ]
+  },
+  {
+    "id": "stage-3",
+    "yearStart": 2021,
+    "yearEnd": 2023,
+    "title": "真實問題解決",
+    "summary": "專題逐步處理通風、健康、書寫、安全、運動與綠色交通等生活問題。",
+    "representativeProjects": [
+      "ventilation-butler",
+      "writing-wizard",
+      "lifesaver",
+      "green-wheel"
+    ]
+  },
+  {
+    "id": "stage-4",
+    "yearStart": 2024,
+    "yearEnd": 2025,
+    "title": "智慧感測與文化科技",
+    "summary": "發展多人同步感測、姿態判斷、竹編QR Code與民俗科技互動。",
+    "representativeProjects": [
+      "health-step",
+      "smart-rope",
+      "wishing-machine"
+    ]
+  },
+  {
+    "id": "stage-5",
+    "yearStart": 2025,
+    "yearEnd": 2026,
+    "title": "AI與物聯網",
+    "summary": "導入ESP32、MQTT、語音辨識、情緒分析、影像辨識與AI協作開發。",
+    "representativeProjects": [
+      "tree-hole",
+      "ai-food-race",
+      "monkey-deterrent",
+      "pickleball-coach"
+    ]
+  }
+]

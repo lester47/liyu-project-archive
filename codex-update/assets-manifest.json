@@ -1,0 +1,2646 @@
+[
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/cover.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "cover",
+    "alt": "學生操作搖頭晃腦 v3－竹魚編鐘作品",
+    "caption": "學生示範操作竹魚編鐘，正式圖說待確認。",
+    "source": "原始檔案含自由時報浮水印，使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/award.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "竹魚編鐘專題團隊展示獎盃與競賽成果",
+    "caption": "競賽成果合照，人物與使用授權待確認。",
+    "source": "原始檔案含自由時報浮水印，使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/group-display.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生與竹魚編鐘完整作品合照",
+    "caption": "竹魚編鐘作品展示，人物與使用授權待確認。",
+    "source": "原始檔案含自由時報浮水印，使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/demonstration.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "竹魚編鐘作品展示與操作畫面",
+    "caption": "竹魚編鐘展示畫面，人物與使用授權待確認。",
+    "source": "使用者提供原始檔案，授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-01.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "搖頭晃腦 V3 竹製演奏裝置的彩色燈光全貌",
+    "caption": "竹製音階裝置亮起彩色燈光，呈現《搖頭晃腦 V3》的完整作品效果。",
+    "source": "使用者指定／搖頭晃腦代表畫面／01_作品片頭與燈光全貌.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-02.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "學生觀察竹製樂器的排列與發聲結構",
+    "caption": "學生觀察竹製樂器的音階排列與發聲結構，累積作品改良所需的竹樂器經驗。",
+    "source": "使用者指定／搖頭晃腦代表畫面／05_觀察竹製樂器結構.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-03.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "觀眾在展示現場近距離操作搖頭晃腦作品",
+    "caption": "觀眾在展示現場近距離體驗作品；畫面未呈現手機 App，因此不作為藍牙編曲介面證明。",
+    "source": "使用者指定／搖頭晃腦代表畫面／13_觀眾近距離感應操作.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-04.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "國際參觀者在展覽中體驗搖頭晃腦竹製作品",
+    "caption": "國際參觀者在展覽現場體驗竹製互動作品；活動名稱與人物影像授權仍待確認。",
+    "source": "使用者指定／搖頭晃腦代表畫面／14_外籍觀眾光感應體驗.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-05.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "親子在展示現場共同操作搖頭晃腦作品",
+    "caption": "親子共同探索竹製互動作品，呈現跨年齡參與與分享的展示情境。",
+    "source": "使用者指定／搖頭晃腦代表畫面／17_親子共同操作體驗.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/v3-gallery-06.webp",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "gallery",
+    "alt": "多位孩童共同探索搖頭晃腦竹製演奏裝置",
+    "caption": "多位孩童一起觀察與操作作品，展現科技竹樂器引發共同探索的學習情境。",
+    "source": "使用者指定／搖頭晃腦代表畫面／19_多位孩童共同探索.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/magic-stone/cover.webp",
+    "projectSlug": "magic-stone",
+    "type": "cover",
+    "alt": "學生展示神奇魔法石馬賽克互動作品",
+    "caption": "學生展示以馬賽克拼貼、光敏電阻、Arduino與LED製作的神奇魔法石；人物影像公開授權待確認。",
+    "source": "原始檔案含自由時報浮水印，使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/magic-stone/group-display.webp",
+    "projectSlug": "magic-stone",
+    "type": "gallery",
+    "alt": "神奇魔法石專題團隊展示兩件馬賽克作品",
+    "caption": "「鯉魚之光」團隊展示蝸牛與鯉魚意象的馬賽克互動作品；人物與使用授權待確認。",
+    "source": "使用者提供原始檔案，授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/magic-stone/program-screen.webp",
+    "projectSlug": "magic-stone",
+    "type": "gallery",
+    "alt": "神奇魔法石專題的 Scratch 程式畫面",
+    "caption": "現存資料中的Scratch程式畫面；是否直接控制正式作品，仍待原始程式或參與者確認。",
+    "source": "使用者提供原始檔案，授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/magic-stone/making.webp",
+    "projectSlug": "magic-stone",
+    "type": "gallery",
+    "alt": "學生在電腦旁製作神奇魔法石專題",
+    "caption": "學生進行神奇魔法石程式與裝置製作；當時使用的正式控制工具仍待確認，人物影像授權待確認。",
+    "source": "使用者提供原始檔案，授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/magic-stone/interaction-detail.webp",
+    "projectSlug": "magic-stone",
+    "type": "gallery",
+    "alt": "手部操作神奇魔法石馬賽克作品的近景",
+    "caption": "玩家將手滑過作品上方，以遮光方式觸發光敏電阻，使對應位置的LED亮起。",
+    "source": "使用者提供原始檔案，授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/cover.webp",
+    "projectSlug": "koi-light",
+    "type": "cover",
+    "alt": "鯉魚炫光作品亮起藍色LED得分燈光",
+    "caption": "鯉魚炫光完成作品依感測距離亮起藍色LED，呈現得分與炫光效果。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／10_得分與炫光效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/award.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "鯉魚炫光專題團隊展示冠軍獎盃與競賽成果",
+    "caption": "鯉魚炫光隊展示第五屆索尼創意科學大賞冠軍獎盃與競賽成果，人物與使用授權待確認。",
+    "source": "使用者提供原始檔案，人物與圖片授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/competition-operation.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "學生在競賽現場操作鯉魚炫光投球裝置",
+    "caption": "學生在競賽場合示範鯉魚炫光的投球或踢球互動玩法，人物影像授權待確認。",
+    "source": "原網站封面素材，人物與圖片授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-01.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "鯉魚炫光完整作品與紅色LED燈光效果",
+    "caption": "鯉魚炫光隊作品片頭呈現完整鯉魚造型、隊員與指導教師資訊及紅色LED燈光效果。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／01_作品片頭與成品全貌.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-02.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "鯉魚炫光早期鯉魚造型設計圖",
+    "caption": "團隊先以紙上草圖規劃鯉魚外型、魚鱗與尾部造型。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／02_學生發想與討論.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-03.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "三位學生共同放大繪製鯉魚炫光設計圖",
+    "caption": "學生共同將鯉魚設計圖放大，確認作品比例與造型配置；人物影像授權待確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／03_鯉魚造型設計草圖.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-04.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "學生鋸切竹材製作鯉魚炫光結構",
+    "caption": "學生將竹材鋸切成適合長度，作為作品結構材料；人物影像授權待確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／04_回收材料裁切製作.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-05.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "學生將LED與杜邦線組裝連接",
+    "caption": "團隊將LED與杜邦線連接，準備安裝到鯉魚造型作品中；人物影像授權待確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／05_LED燈與電路組裝.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-06.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "完成彩繪與LED安裝的鯉魚炫光作品",
+    "caption": "鯉魚造型完成彩繪與LED安裝，魚身結合多種回收容器形成發光區域。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／06_魚身彩繪與外觀完成.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-07.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "鯉魚炫光Scratch型積木程式畫面",
+    "caption": "Scratch型積木程式畫面可見Arduino PWM輸出、HC-SR04距離判斷及多組燈光控制；確切軟體版本待確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／07_Scratch程式設計.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-08.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "安裝在木製支架上的HC-SR04超音波感測器",
+    "caption": "HC-SR04超音波感測器安裝於木製支架，用來偵測球或物體與裝置之間的距離。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／08_超音波感測器安裝.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-09.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "學生將大型紅球滾向鯉魚炫光感測區",
+    "caption": "學生進行丟球互動遊戲，讓大型球進入感測範圍並觀察作品反應；人物影像授權待確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／09_丟球互動遊戲進行.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-light/story-10.webp",
+    "projectSlug": "koi-light",
+    "type": "gallery",
+    "alt": "鯉魚炫光在近距離感測時亮起藍色LED",
+    "caption": "影片示範距離0至20公分時，鯉魚炫光會閃藍光；其他距離區間、顏色與分數仍待原始規則確認。",
+    "source": "鯉魚炫光_10張代表性畫面.zip／10_得分與炫光效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/cover.webp",
+    "projectSlug": "koi-play-big",
+    "type": "cover",
+    "alt": "大型黃色鯉魚、摩天輪、競速軌道與龍門組成的完整作品",
+    "caption": "雙關卡整合完成的《鯉魚玩很大》。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-10-完整作品.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-01.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "三位鯉魚國小學生在校園中介紹鯉魚玩很大團隊",
+    "caption": "小小鯉魚 TRY DO DO 團隊以動作介紹作品。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-01-團隊介紹.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-02.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "學生站在大型鯉魚與摩天輪裝置旁介紹第一關",
+    "caption": "第一關「鯉魚摩天輪轉轉樂」結合北風與太陽的故事。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-02-摩天輪轉轉樂.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-03.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "兩位學生手持控制裝置操作鯉魚摩天輪進行紅藍對抗",
+    "caption": "兩位玩家以紅藍雙方進行光感互動對抗。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-03-紅藍光感對抗.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-04.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "三位學生在作品旁示範手腕晃動控制鯉魚前進",
+    "caption": "玩家晃動手腕，游動次數越多，鯉魚前進越快。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-04-鯉魚躍龍門.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-05.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "學生席地操作模型與板材討論互動玩具設計",
+    "caption": "團隊以模型與材料討論玩具構想。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-05-玩具構思.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-06.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "三位學生在教室中為橘色鯉魚主體進行塑形",
+    "caption": "學生以輕量材料製作大型鯉魚造型。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-06-鯉魚塑形.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-07.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "多片彩繪魚形圓盤組成的摩天輪機構特寫",
+    "caption": "彩繪完成的摩天輪圓盤與大小輪組。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-07-摩天輪完工.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-08.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "兩位學生在電腦與電子元件旁進行程式測試",
+    "caption": "學生在電腦前反覆測試與修正程式。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-08-程式測試.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-09.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "藍色鯉魚馬達車與microbit無線控制板的近距離畫面",
+    "caption": "micro:bit把手腕晃動資料無線傳送給鯉魚車。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-09-microbit無線傳送.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/koi-play-big/gallery-10.webp",
+    "projectSlug": "koi-play-big",
+    "type": "gallery",
+    "alt": "大型黃色鯉魚、摩天輪、競速軌道與龍門組成的完整作品",
+    "caption": "雙關卡整合完成的《鯉魚玩很大》。",
+    "source": "鯉魚玩很大-Codex完整資料包／鯉魚玩很大-10-完整作品.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/cover.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "cover",
+    "alt": "猴子加油專題作品與學生合影",
+    "caption": "猴子加油專題的作品展示照片。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/gallery-01.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "gallery",
+    "alt": "猴子加油專題製作過程 1",
+    "caption": "猴子加油專題的製作與展示紀錄。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/gallery-02.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "gallery",
+    "alt": "猴子加油專題製作過程 2",
+    "caption": "猴子加油專題的製作與展示紀錄。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/gallery-03.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "gallery",
+    "alt": "猴子加油專題製作過程 3",
+    "caption": "猴子加油專題的製作與展示紀錄。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/gallery-04.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "gallery",
+    "alt": "猴子加油專題製作過程 4",
+    "caption": "猴子加油專題的製作與展示紀錄。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/gallery-05.webp",
+    "projectSlug": "monkey-go-archive",
+    "type": "gallery",
+    "alt": "猴子加油專題製作過程 5",
+    "caption": "猴子加油專題的製作與展示紀錄。",
+    "source": "3下猴子加油-20260805T031221Z-1-001.zip",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-05.webp",
+    "projectSlug": "monkey-go",
+    "type": "cover",
+    "alt": "三位學生在教室前發表猴子加油 V2 語音辨識作品",
+    "caption": "《猴子加油 V2》發表過程，團隊介紹燈板提示與Google機器學習語音辨識的語言訓練互動。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片03:25截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-01.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "學生與教師拿著木製原型討論猴子加油的機構設計",
+    "caption": "團隊從原型操作中檢查支架與動作設計。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片00:32截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-02.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "學生使用工具加工猴子加油的木製構件",
+    "caption": "學生親手完成木材測量、鑽孔與組裝。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片00:58截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-03.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "兩位學生近距離測試木製猴子連動機構",
+    "caption": "組裝後反覆測試連桿能否順暢動作。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片01:55截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-04.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "猴子加油作品使用的控制板與擴充板近照",
+    "caption": "控制系統負責讀取輸入並啟動猴子動作；控制板與擴充板正式型號仍待確認。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片02:25截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-05.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "三位學生在教室前發表猴子加油 V2 語音辨識作品",
+    "caption": "《猴子加油 V2》的作品發表紀錄；團隊說明如何以燈板提示題目並進行語音辨識。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片03:25截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-go/video-frame-06.webp",
+    "projectSlug": "monkey-go",
+    "type": "gallery",
+    "alt": "學生在發表過程中示範猴子加油 V2 語言訓練互動",
+    "caption": "《猴子加油 V2》的現場示範與發表過程；完整題目內容、辨識詞彙與回饋方式仍待補充。",
+    "source": "使用者提供／猴子加油-Codex完整資料包／影片04:10截圖",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/cover-v3.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "cover",
+    "alt": "猴不來驅猴裝置實體原型與電子元件",
+    "caption": "猴不來驅猴裝置實體原型，呈現 AI 鏡頭、控制板、擴音單元、供電與測試配線。",
+    "source": "使用者提供的猴不來實體裝置照片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/cover-v2.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來智慧驅猴系統運作流程圖",
+    "caption": "猴不來利用 AI 影像辨識、智慧判斷與聲光驅離的運作說明。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／2.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/gallery-problem-and-design.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來專題問題背景與預防勝於處理的設計核心",
+    "caption": "說明猴子突然出現可能使家人驚嚇受傷，人工驅趕也存在風險，因此以提前預警、降低風險為設計核心。",
+    "source": "使用者提供的猴不來問題與設計核心圖",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-01.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來智慧驅猴與居家安全設計說明",
+    "caption": "專題問題、三步驟運作流程與友善設計原則。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／理念及設計.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-02.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來辨識猴子與人類的測試結果",
+    "caption": "系統測試畫面，呈現猴子辨識與人類排除的結果。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／猴不來-複審文件.docx",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-03.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來隨機播放天敵聲音的設計流程",
+    "caption": "辨識到猴子後，系統隨機播放天敵聲音的觀念說明。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／猴不來-複審文件.docx",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-04.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來從問題觀察到實作驗證的開發流程",
+    "caption": "專題從問題觀察、系統構想、軟硬體開發到實作驗證的過程。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／猴不來-複審文件.docx",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-05.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來 AI 辨識與驅離流程圖",
+    "caption": "攝影機偵測、目標辨識、類別判斷與聲光驅離的系統流程。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／猴不來-複審文件.docx",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/monkey-deterrent/archive-gallery-06.webp",
+    "projectSlug": "monkey-deterrent",
+    "type": "gallery",
+    "alt": "猴不來裝置內部的 ESP32、AI 鏡頭與擴音元件",
+    "caption": "裝置內部的控制板、HUSKYLENS AI 鏡頭、擴音元件與連接配線。",
+    "source": "猴不來-20260805T034931Z-1-001.zip／Proactive_Home_Safety_System.pptx",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/cover.webp",
+    "projectSlug": "electronic-santai",
+    "type": "cover",
+    "alt": "三位學生與完成的Q版電音三太子互動玩具",
+    "caption": "「陽光女孩」團隊展示完成的Q版電音三太子聲控玩具；人物影像公開授權待確認。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/gallery-01.webp",
+    "projectSlug": "electronic-santai",
+    "type": "gallery",
+    "alt": "三位學生使用電腦與控制板進行電音三太子程式設計",
+    "caption": "學生以Scratch撰寫Arduino控制程式，整合聲音震動感測與作品反應。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/gallery-02.webp",
+    "projectSlug": "electronic-santai",
+    "type": "gallery",
+    "alt": "Q版電音三太子玩具進行互動功能測試",
+    "caption": "團隊測試Q版三太子的聲音感應、燈光與互動反應。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/gallery-03.webp",
+    "projectSlug": "electronic-santai",
+    "type": "gallery",
+    "alt": "學生使用回收塑膠容器製作電音三太子頭部結構",
+    "caption": "學生以回收塑膠容器及裝飾材料製作Q版三太子的頭部結構。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/gallery-04.webp",
+    "projectSlug": "electronic-santai",
+    "type": "gallery",
+    "alt": "學生在電音三太子人偶內部安裝LED與控制線路",
+    "caption": "學生將LED及控制線路安裝於Q版三太子人偶內部。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/electronic-santai/gallery-05.webp",
+    "projectSlug": "electronic-santai",
+    "type": "gallery",
+    "alt": "學生使用回收塑膠瓶製作電音三太子的身體與手足結構",
+    "caption": "學生運用回收塑膠瓶完成Q版三太子的身體、手部與足部結構。",
+    "source": "使用者提供之作品影片關鍵畫面，人物與影片使用授權待確認",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/cover.webp",
+    "projectSlug": "health-step",
+    "type": "cover",
+    "alt": "健康拾足踏板?????????",
+    "caption": "健康拾足踏板?????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-01.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 1",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-02.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 2",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-03.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 3",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-04.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 4",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-05.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 5",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/health-step/gallery-06.webp",
+    "projectSlug": "health-step",
+    "type": "gallery",
+    "alt": "健康拾足踏板???? 6",
+    "caption": "健康拾足踏板??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/cover.webp",
+    "projectSlug": "move-move",
+    "type": "cover",
+    "alt": "動次動次動－要活就要動?????????",
+    "caption": "動次動次動－要活就要動?????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/gallery-01.webp",
+    "projectSlug": "move-move",
+    "type": "gallery",
+    "alt": "動次動次動－要活就要動???? 1",
+    "caption": "動次動次動－要活就要動??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/gallery-02.webp",
+    "projectSlug": "move-move",
+    "type": "gallery",
+    "alt": "動次動次動－要活就要動???? 2",
+    "caption": "動次動次動－要活就要動??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/gallery-03.webp",
+    "projectSlug": "move-move",
+    "type": "gallery",
+    "alt": "動次動次動－要活就要動???? 3",
+    "caption": "動次動次動－要活就要動??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/gallery-04.webp",
+    "projectSlug": "move-move",
+    "type": "gallery",
+    "alt": "動次動次動－要活就要動???? 4",
+    "caption": "動次動次動－要活就要動??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/move-move/gallery-05.webp",
+    "projectSlug": "move-move",
+    "type": "gallery",
+    "alt": "動次動次動－要活就要動???? 5",
+    "caption": "動次動次動－要活就要動??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/cover.webp",
+    "projectSlug": "wishing-machine",
+    "type": "cover",
+    "alt": "許願機?????????",
+    "caption": "許願機?????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/gallery-01.webp",
+    "projectSlug": "wishing-machine",
+    "type": "gallery",
+    "alt": "許願機???? 1",
+    "caption": "許願機??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/gallery-02.webp",
+    "projectSlug": "wishing-machine",
+    "type": "gallery",
+    "alt": "許願機???? 2",
+    "caption": "許願機??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/gallery-03.webp",
+    "projectSlug": "wishing-machine",
+    "type": "gallery",
+    "alt": "許願機???? 3",
+    "caption": "許願機??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/gallery-04.webp",
+    "projectSlug": "wishing-machine",
+    "type": "gallery",
+    "alt": "許願機???? 4",
+    "caption": "許願機??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/wishing-machine/gallery-05.webp",
+    "projectSlug": "wishing-machine",
+    "type": "gallery",
+    "alt": "許願機???? 5",
+    "caption": "許願機??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/archive-gallery-01.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "搖頭晃腦 v3－竹魚編鐘???? 1",
+    "caption": "搖頭晃腦 v3－竹魚編鐘??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/archive-gallery-02.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "搖頭晃腦 v3－竹魚編鐘???? 2",
+    "caption": "搖頭晃腦 v3－竹魚編鐘??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/archive-gallery-03.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "搖頭晃腦 v3－竹魚編鐘???? 3",
+    "caption": "搖頭晃腦 v3－竹魚編鐘??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/archive-gallery-04.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "搖頭晃腦 v3－竹魚編鐘???? 4",
+    "caption": "搖頭晃腦 v3－竹魚編鐘??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/archive-gallery-05.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "搖頭晃腦 v3－竹魚編鐘???? 5",
+    "caption": "搖頭晃腦 v3－竹魚編鐘??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/tree-hole/cover.webp",
+    "projectSlug": "tree-hole",
+    "type": "cover",
+    "alt": "樹洞?????????",
+    "caption": "樹洞?????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/tree-hole/gallery-01.webp",
+    "projectSlug": "tree-hole",
+    "type": "gallery",
+    "alt": "樹洞???? 1",
+    "caption": "樹洞??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/tree-hole/gallery-02.webp",
+    "projectSlug": "tree-hole",
+    "type": "gallery",
+    "alt": "樹洞???? 2",
+    "caption": "樹洞??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/tree-hole/gallery-03.webp",
+    "projectSlug": "tree-hole",
+    "type": "gallery",
+    "alt": "樹洞???? 3",
+    "caption": "樹洞??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/tree-hole/gallery-04.webp",
+    "projectSlug": "tree-hole",
+    "type": "gallery",
+    "alt": "樹洞???? 4",
+    "caption": "樹洞??????????????????",
+    "source": "????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/cover.webp",
+    "projectSlug": "light-race",
+    "type": "cover",
+    "alt": "??????????????",
+    "caption": "????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-01.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "????????????????",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-02.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "?????????????",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-03.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "?????????????micro:bit",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-04.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "????????????",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-05.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "?????????????",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/light-race/gallery-06.webp",
+    "projectSlug": "light-race",
+    "type": "gallery",
+    "alt": "?????????????",
+    "caption": "???????????????????????",
+    "source": "??????????????????????",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/cover.webp",
+    "projectSlug": "stellar-mission",
+    "type": "cover",
+    "alt": "學生展示啟動星際任務宇宙闖關玩具",
+    "caption": "啟動星際任務完整作品與操作展示。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-01.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務彈力發射與能量球捕捉裝置",
+    "caption": "第二關使用彈力發射捕捉器，以魔鬼氈的摩擦力捕捉能量球。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-02.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務的燈光太空船模型",
+    "caption": "運用回收材料與燈光製作的太空船模型。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-03.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務能量球關卡內部",
+    "caption": "能量球捕捉關卡與發射裝置的實作配置。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-04.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務的手作太空船細節",
+    "caption": "以回收材料製作並加入燈光的太空船。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-05.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務穿越蟲洞磁力軌道關卡",
+    "caption": "第三關以磁鐵同極相斥、異極相吸的特性，隔空控制太空船移動與旋轉。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-06.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務光敏電阻與控制電路",
+    "caption": "關卡內部的電子元件、控制電路與光敏感測區。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／玩具製作說明書",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/stellar-mission/gallery-07.webp",
+    "projectSlug": "stellar-mission",
+    "type": "gallery",
+    "alt": "啟動星際任務三道科學闖關流程圖",
+    "caption": "三道任務依序為遭遇外星戰艦、捕捉能量球與穿越蟲洞。",
+    "source": "啟動星際任務-完稿-20260805T042104Z-1-001.zip／專題簡報",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/cover.webp",
+    "projectSlug": "green-wheel",
+    "type": "gallery",
+    "alt": "綠輪騎跡追風趣自行車發電、儲能與追蹤裝置",
+    "caption": "安裝在自行車上的動能轉換、儲能與智慧追蹤電子裝置。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/gallery-01.webp",
+    "projectSlug": "green-wheel",
+    "type": "gallery",
+    "alt": "綠輪騎跡追風趣 GPS 追蹤與控制電路",
+    "caption": "智慧追蹤系統的 GPS、控制板與供電元件。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/gallery-02.webp",
+    "projectSlug": "green-wheel",
+    "type": "gallery",
+    "alt": "綠輪騎跡追風趣騎乘路徑紀錄地圖",
+    "caption": "系統紀錄騎乘路徑、距離與行程資料，作為減碳成果計算依據。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/gallery-03.webp",
+    "projectSlug": "green-wheel",
+    "type": "gallery",
+    "alt": "綠輪騎跡追風趣自行車裝置測試與說明",
+    "caption": "師生測試自行車發電與智慧追蹤裝置。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/cover-v2.webp",
+    "projectSlug": "green-wheel",
+    "type": "cover",
+    "alt": "綠輪騎跡追風趣自行車與參與人員成果展示",
+    "caption": "專題自行車、電子裝置與活動成果展示。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-wheel/gallery-05.webp",
+    "projectSlug": "green-wheel",
+    "type": "gallery",
+    "alt": "綠輪騎跡追風趣自行車前輪發電結構",
+    "caption": "自行車輪組與動能轉換裝置的安裝位置。",
+    "source": "綠輪騎跡追風趣.docx／內嵌活動圖片",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/cover.webp",
+    "projectSlug": "lifesaver",
+    "type": "cover",
+    "alt": "學生使用 Blockly 撰寫救命恩人跌倒辨識程式",
+    "caption": "學生以 Blockly 積木程式建立影像擷取、姿態判斷、跌倒確認與通知流程。",
+    "source": "17_rescue_project_package.zip／05_blockly_programming.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-01.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人跌倒偵測與 LINE 通報系統設計圖",
+    "caption": "PocketCam 偵測人體姿態，判斷跌倒後透過網路與 LINE 傳送文字及現場照片。",
+    "source": "17_rescue_project_package.zip／01_system_design.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-02.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人站立姿態辨識測試",
+    "caption": "以站立姿態測試人體軸線與安全狀態的辨識結果。",
+    "source": "17_rescue_project_package.zip／02_standing_test.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-03.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人倒地姿態辨識測試",
+    "caption": "以實際倒地姿態測試系統的跌倒判斷條件。",
+    "source": "17_rescue_project_package.zip／03_fall_test.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-04.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人使用的 PocketCard 相機模組",
+    "caption": "PocketCard 的 KSB052 PocketCam 鏡頭模組負責擷取人體影像。",
+    "source": "17_rescue_project_package.zip／04_pocketcard_camera.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-05.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "學生使用 Blockly 開發救命恩人程式",
+    "caption": "學生以 Blockly 撰寫影像擷取、姿態角度判斷與通知程式。",
+    "source": "17_rescue_project_package.zip／05_blockly_programming.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-06.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人站立安全辨識結果",
+    "caption": "站立狀態下，系統將人體姿態辨識為安全。",
+    "source": "17_rescue_project_package.zip／06_standing_result.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-07.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人跌倒偵測結果",
+    "caption": "倒地狀態下，系統辨識為跌倒並進入通報流程。",
+    "source": "17_rescue_project_package.zip／07_fall_detection.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lifesaver/gallery-08.webp",
+    "projectSlug": "lifesaver",
+    "type": "gallery",
+    "alt": "救命恩人 LINE 即時通知畫面",
+    "caption": "判定跌倒後，系統將警示文字與現場照片傳送至指定 LINE 帳號。",
+    "source": "17_rescue_project_package.zip／08_line_notification.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/cover.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "cover",
+    "alt": "通風報信妙管家完整作品正面，使用穀物和彩色方塊裝飾貓頭鷹。",
+    "caption": "完整作品正面以貓頭鷹造型呈現。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-09-作品正面.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-01.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "手持HuskyLens對著螢幕上的人物進行AI人臉辨識測試。",
+    "caption": "HuskyLens將畫面中的人物標示為已學習的人臉ID。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-01-AI人臉辨識測試.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-02.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "學生在教室裡以HuskyLens對同學進行真人臉孔辨識。",
+    "caption": "學生以真人情境測試鏡頭的人臉辨識結果。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-02-真人辨識測試.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-03.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "手機LINE Notify畫面顯示多筆陌生人入侵通知。",
+    "caption": "2021年原型透過LINE Notify重複傳送「陌生人入侵」警示；該服務現已終止。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-03-LINE入侵通知.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-04.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "學生坐在電腦前學習HuskyLens AI辨識鏡頭。",
+    "caption": "學生觀看教學內容，理解HuskyLens AI鏡頭的操作方式。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-04-學習AI辨識鏡頭.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-05.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "學生在桌上型電腦前撰寫micro:bit MakeCode積木程式。",
+    "caption": "學生以MakeCode積木程式整合AI辨識與控制流程。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-05-MakeCode程式設計.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-06.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "學生在電腦前設定IFTTT與LINE通知串接。",
+    "caption": "學生設定網路事件與當時的LINE Notify通知功能。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-06-LINE功能串接.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-07.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "學生在電腦前編輯與測試MP3警告語音。",
+    "caption": "學生製作陌生人入侵時播放的MP3警告語。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-07-MP3警告語製作.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-08.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "多位學生共同組裝貓頭鷹底板上的micro:bit與電子元件。",
+    "caption": "學生把電子元件固定在貓頭鷹造型底板背面。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-08-外觀與元件組裝.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-09.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "通風報信妙管家完整作品正面，使用穀物和彩色方塊裝飾貓頭鷹。",
+    "caption": "完整作品正面以貓頭鷹造型呈現。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-09-作品正面.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/ventilation-butler/gallery-10.webp",
+    "projectSlug": "ventilation-butler",
+    "type": "gallery",
+    "alt": "通風報信妙管家作品背面，木板上固定micro:bit、AI鏡頭與電子模組。",
+    "caption": "完整作品背面可看見控制板、鏡頭、播放器與線路。",
+    "source": "通風報信妙管家-Codex完整資料包／通風報信妙管家-10-作品背面.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/cover.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "cover",
+    "alt": "學生操作搖頭晃腦系列竹製互動裝置",
+    "caption": "學生操作竹製互動裝置的紀錄；是否為 V1 光感應互動版及人物影像授權仍待確認。",
+    "source": "使用者提供／搖頭L.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-01.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生手作搖頭晃腦系列竹製零件",
+    "caption": "學生進行竹材零件手作的過程；確切作品版本及人物影像授權待確認。",
+    "source": "使用者提供／搖頭晃腦2.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-02.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生討論搖頭晃腦作品設計",
+    "caption": "學生進行作品設計討論與草圖規劃；確切作品版本及人物影像授權待確認。",
+    "source": "使用者提供／搖頭H.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-03.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生使用積木程式設計搖頭晃腦作品",
+    "caption": "學生使用積木式程式進行控制設計；確切作品版本及人物影像授權待確認。",
+    "source": "使用者提供／搖頭P.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-04.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "搖頭晃腦 V1 竹管在暗場中呈現彩色燈光效果",
+    "caption": "不同竹管在暗場中亮起彩色燈光，呈現《搖頭晃腦 V1》的聲光互動效果。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／02_暗場彩色燈光效果.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-05.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "學生共同討論搖頭晃腦 V1 的作品構想",
+    "caption": "團隊共同發想與討論作品設計，逐步整理竹管、感測與機構的創作方向。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／06_學生共同發想討論.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-06.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "學生組裝搖頭晃腦 V1 的竹筒機構與零件",
+    "caption": "學生組裝竹筒與機構零件，測試各部件的固定方式與活動空間。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／08_竹筒機構與零件組裝.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-07.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "學生測試搖頭晃腦 V1 的光感應與伺服馬達",
+    "caption": "學生測試光線感應與伺服馬達動作，確認感測輸入能帶動竹管機構。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／09_光感應與伺服馬達測試.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-08.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "學生向參觀者示範搖頭晃腦 V1 的互動方式",
+    "caption": "學生在展示現場示範以光線觸發竹管搖動、發光與發聲的互動方式。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／12_學生示範搖頭互動.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v1/gallery-09.webp",
+    "projectSlug": "head-shake-v1",
+    "type": "gallery",
+    "alt": "幼兒在展場體驗搖頭晃腦 V1 互動作品",
+    "caption": "幼兒在展場中觀察並操作竹管互動裝置，呈現作品容易理解、能引發探索的體驗特色。",
+    "source": "使用者提供／搖頭晃腦 V1 代表畫面／20_幼兒與作品互動經典畫面.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/cover.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "cover",
+    "alt": "學生在展覽現場介紹搖頭晃腦竹製敲擊裝置",
+    "caption": "搖頭晃腦系列公開展示紀錄，確切拍攝階段待確認。",
+    "source": "使用者提供／搖頭晃腦3.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-01.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生參訪竹文化園區與竹樂器工坊",
+    "caption": "學生觀察竹樂器與在地竹文化，作為系列作品發展素材。",
+    "source": "使用者提供／搖頭S.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-02.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "國際訪客體驗搖頭晃腦竹製敲擊裝置",
+    "caption": "搖頭晃腦系列的互動展示紀錄，確切活動與拍攝時間待確認。",
+    "source": "使用者提供／搖頭晃腦1.JPG",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-03.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "學生向國際參觀者介紹竹魚編鐘作品",
+    "caption": "國際交流展示紀錄，人物影像授權與確切作品版本待確認。",
+    "source": "使用者提供／搖頭S統整.png",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-04.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "搖頭晃腦 V2 竹製音樂裝置呈現搖頭動作",
+    "caption": "作品透過竹製音階結構呈現搖頭與演奏動作；畫面由使用者指定為 V2 代表素材。",
+    "source": "使用者提供／搖頭晃腦代表畫面／03_玩具玩法與搖頭動作.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-05.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "學生觀察竹琴敲擊與竹製樂器的發聲方式",
+    "caption": "學生從竹琴敲擊與竹製樂器的發聲方式尋找作品改良靈感。",
+    "source": "使用者提供／搖頭晃腦代表畫面／04_竹琴敲擊的創意啟發.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-06.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "學生繪製搖頭晃腦系列作品的設計草圖",
+    "caption": "學生以草圖整理作品構想與機構配置；確切圖面內容仍待原始設計資料核對。",
+    "source": "使用者提供／搖頭晃腦代表畫面／07_繪製作品設計草圖.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-07.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "搖頭晃腦作品團隊參與 Maker Faire 展示活動",
+    "caption": "團隊參與 Maker Faire 展示活動的合影；人物影像公開授權仍待確認。",
+    "source": "使用者提供／搖頭晃腦代表畫面／10_MakerFaire參展團隊合影.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-08.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "學生在展示現場向觀眾介紹搖頭晃腦作品",
+    "caption": "學生在展示現場向觀眾說明作品並進行互動交流；人物影像公開授權仍待確認。",
+    "source": "使用者提供／搖頭晃腦代表畫面／11_學生向觀眾介紹作品.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/head-shake-v2/gallery-09.webp",
+    "projectSlug": "head-shake-v2",
+    "type": "gallery",
+    "alt": "搖頭晃腦 V2 竹製音階裝置整排亮燈",
+    "caption": "整排竹製音階裝置亮燈並呈現搖頭動作，展現作品的聲光演奏效果。",
+    "source": "使用者提供／搖頭晃腦代表畫面／15_作品整排亮燈搖頭.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/international-01.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "竹魚編鐘團隊與印尼學生在展位交流",
+    "caption": "竹魚編鐘於印尼國際競賽展位進行作品交流，人物影像授權待確認。",
+    "source": "使用者提供／印尼比賽3.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/international-02.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "竹魚編鐘團隊參與印尼國際競賽頒獎活動",
+    "caption": "2019 年印尼國際競賽舞臺紀錄，人物影像授權待確認。",
+    "source": "使用者提供／195858.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/bamboo-fish-chimes/international-03.webp",
+    "projectSlug": "head-shake-family",
+    "type": "gallery",
+    "alt": "竹魚編鐘團隊於印尼國際競賽舞臺展示獎牌",
+    "caption": "國際競賽成果紀錄，人物影像授權待確認。",
+    "source": "使用者提供／搖頭A.png",
+    "verified": false
+  },
+  {
+    "fileName": "/videos/projects/head-shake-family/international-stage.mp4",
+    "projectSlug": "head-shake-family",
+    "type": "video",
+    "alt": "搖頭晃腦系列國際舞臺影片",
+    "caption": "搖頭晃腦系列的國際舞臺影像，實際對應版本尚待確認，不列為 V1 競賽成果；人物影像授權亦待確認。",
+    "source": "使用者提供／國際舞台 - Compressed with FlexClip (1).mp4",
+    "verified": false
+  },
+  {
+    "fileName": "/videos/projects/head-shake-family/international-stage.mp4",
+    "projectSlug": "head-shake-v2",
+    "type": "video",
+    "alt": "搖頭晃腦系列國際舞臺影片",
+    "caption": "搖頭晃腦系列走上國際舞臺的影像紀錄，確切片段與人物授權待確認。",
+    "source": "使用者提供／國際舞台 - Compressed with FlexClip (1).mp4",
+    "verified": false
+  },
+  {
+    "fileName": "/videos/projects/head-shake-family/international-stage.mp4",
+    "projectSlug": "bamboo-fish-chimes",
+    "type": "video",
+    "alt": "搖頭晃腦 V3 頁面沿用的 V2 系列展示影片",
+    "caption": "依使用者指定，V3頁面沿用V2的搖頭晃腦系列影片，作為版本演進與展示情境參考；本影片不是V3專屬技術證明，人物影像授權仍待確認。",
+    "source": "使用者提供／國際舞台 - Compressed with FlexClip (1).mp4",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/cover.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "cover",
+    "alt": "凱比心感機情緒燈光互動裝置",
+    "caption": "以柔和葉片造型包覆 RGB 燈光系統的凱比心感機完成作品。",
+    "source": "TWET25034凱比心感機_5.pdf／第 5 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-01.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "凱比心感機作品摘要與設計目的",
+    "caption": "IEYI 作品摘要，說明情緒陪伴需求、創作動機與非評價式互動目標。",
+    "source": "TWET25034凱比心感機_5.pdf／第 1 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-02.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "凱比心感機情緒理解與回應流程",
+    "caption": "系統以普拉奇克情緒輪、大語言模型及燈光顯示建立情感互動流程。",
+    "source": "TWET25034凱比心感機_5.pdf／第 2 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-03.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "凱比心感機語音情感感知與燈光回應模式",
+    "caption": "介紹語音轉文字、情緒分析與 RGB 燈光顏色及節奏的回應方式。",
+    "source": "TWET25034凱比心感機_5.pdf／第 3 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-04.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "普拉奇克情緒輪與凱比心感機色彩設計",
+    "caption": "以情緒輪的分類、強度及相鄰關係規劃燈光色彩與互動回饋。",
+    "source": "TWET25034凱比心感機_5.pdf／第 4 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-05.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "凱比心感機完成裝置與設計說明",
+    "caption": "完成裝置將抽象情緒轉化為可感知的實體燈光與互動回應。",
+    "source": "TWET25034凱比心感機_5.pdf／第 5 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/kebbi-emotion/gallery-06.webp",
+    "projectSlug": "kebbi-emotion",
+    "type": "gallery",
+    "alt": "凱比心感機製作歷程與測試修正",
+    "caption": "從問題觀察、情緒架構、互動設計到實體製作與反覆測試的歷程。",
+    "source": "TWET25034凱比心感機_5.pdf／第 6 頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/cover.webp",
+    "projectSlug": "lake-race",
+    "type": "cover",
+    "alt": "日月潭環湖競跑完整互動裝置",
+    "caption": "以日月潭地景、LED環湖路線、踩踏控制與螢幕介面組成的完整作品。",
+    "source": "使用者提供／670563036_1430694308855448_7769645397543816643_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-01.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑玩家導覽手冊",
+    "caption": "照片資料中的80格占領點玩法版本；正式競賽企畫書採94步三模式設計。",
+    "source": "使用者提供／669523591_1430694322188780_927225956851623311_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-02.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑競賽展位與作品展示",
+    "caption": "作品於科技教育創意實作競賽展位展示，人物影像授權待確認。",
+    "source": "使用者提供／669071808_1430694288855450_3968476806216246291_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-03.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑科技任務組國小組佳作成果",
+    "caption": "114學年度科技教育創意實作競賽科技任務組國小組佳作成果紀錄。",
+    "source": "使用者提供／669427016_1430694098855469_6997578207978179237_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-04.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑團隊與完整作品合照",
+    "caption": "團隊在展位呈現完整互動裝置，人物影像授權待確認。",
+    "source": "使用者提供／669687315_1430694225522123_4554442866486860721_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-05.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑競賽團隊成果合照",
+    "caption": "競賽團隊成果紀錄，人物影像授權待確認。",
+    "source": "使用者提供／670064793_1430694145522131_5394945382064066385_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-06.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑製作測試過程",
+    "caption": "團隊進行裝置、螢幕介面與互動流程測試，人物影像授權待確認。",
+    "source": "使用者提供／670503036_1430694162188796_4090257679140308005_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-07.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑硬體組裝與測試",
+    "caption": "作品地景、感測控制與燈光系統的組裝測試紀錄，人物影像授權待確認。",
+    "source": "使用者提供／670919003_1430694232188789_726221914101527505_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/gallery-08.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑學生參賽紀錄",
+    "caption": "學生參與科技教育創意實作競賽的活動紀錄，人物影像授權待確認。",
+    "source": "使用者提供／668868620_1430694228855456_7972715145588648213_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/official-concept.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑問題分析與聲光體感解決策略",
+    "caption": "正式企畫書說明壓力踏板、Micro:bit、WS2812光軌及在地文化遊戲化的核心策略。",
+    "source": "AE018-日月潭環湖競跑-科技教育(科技任務組).pdf／第4頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/official-design.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑94點光軌與三種遊戲模式設計圖",
+    "caption": "以94顆LED呈現環湖賽道，並設計標準競速、環湖地形挑戰與邵族傳說任務。",
+    "source": "AE018-日月潭環湖競跑-科技教育(科技任務組).pdf／第9頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/official-hardware.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑硬體控制與科學原理說明",
+    "caption": "Micro:bit V2、悟空擴展板、壓力感測器、WS2812與矩陣燈板的整合架構。",
+    "source": "AE018-日月潭環湖競跑-科技教育(科技任務組).pdf／第13頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/lake-race/official-code.webp",
+    "projectSlug": "lake-race",
+    "type": "gallery",
+    "alt": "日月潭環湖競跑MakeCode主要功能程式",
+    "caption": "積木程式包含踏板訊號判斷、步數計算、勝負鎖定、矩陣顯示及燈光更新。",
+    "source": "AE018-日月潭環湖競跑-科技教育(科技任務組).pdf／第15頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/cover.webp",
+    "projectSlug": "smart-rope",
+    "type": "cover",
+    "alt": "跳大繩智慧教練系統設計圖",
+    "caption": "以壓力感測墊、Micro:bit、聲音、紅綠燈及雲端數據組成的智慧訓練系統。",
+    "source": "跳大繩智慧教練.pdf／第9頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-01.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練學生實測與專案動機",
+    "caption": "學生在壓力感測墊上進行同步跳躍測試，人物影像授權待確認。",
+    "source": "跳大繩智慧教練.pdf／第2頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-02.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練專案目標與永續發展目標",
+    "caption": "專案以團隊同步、即時回饋、數據記錄及科技應用為目標，對應SDG 3與SDG 4。",
+    "source": "跳大繩智慧教練.pdf／第4頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-03.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練壓力感測與聲光回饋原理",
+    "caption": "說明壓力感測、Micro:bit同步判斷、LED與蜂鳴器回饋及Google表單分析。",
+    "source": "跳大繩智慧教練.pdf／第5頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-04.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練訓練效益圖",
+    "caption": "智慧系統提升團隊同步性、即時反饋、數據記錄、頻率調節及學生科技技能。",
+    "source": "跳大繩智慧教練.pdf／第8頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-05.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練設計圖與簡報首頁",
+    "caption": "正式企畫書中的系統設計圖與科技助力團隊同步的簡報說明。",
+    "source": "跳大繩智慧教練.pdf／第9頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-06.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練訓練策略與MakeCode程式",
+    "caption": "訓練由慢到快、由易到難，並以遙控端、接收端和反饋機制完成程式設計。",
+    "source": "跳大繩智慧教練.pdf／第11頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/smart-rope/gallery-07.webp",
+    "projectSlug": "smart-rope",
+    "type": "gallery",
+    "alt": "跳大繩智慧教練訓練成效分析",
+    "caption": "以視覺與聽覺回饋協助選手掌握同步技巧、縮短磨合期並提升參與感。",
+    "source": "跳大繩智慧教練.pdf／第12頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/cover.webp",
+    "projectSlug": "writing-wizard",
+    "type": "cover",
+    "alt": "學生以手指操作寫字魔法師的發光觸控面板。",
+    "caption": "學生實際測試寫字魔法師，觸碰面板時會亮起對應的燈光。",
+    "source": "使用者提供／00_專案／寫字魔法師／480874101_3837253759882376_527242443177368711_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-01.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "學生與教師使用字卡測試寫字魔法師的LED觸控面板。",
+    "caption": "團隊以不同字卡測試筆畫位置、觸控反應與燈光顯示。",
+    "source": "使用者提供／00_專案／寫字魔法師／481025629_3837253589882393_4367853220949445606_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-02.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師團隊在校園中展示字卡與互動面板。",
+    "caption": "學生展示不同筆畫字卡及完成的互動寫字面板。",
+    "source": "使用者提供／00_專案／寫字魔法師／481215651_3837253533215732_77428691281516084_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-03.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師學生團隊在教室錄製作品發表影片。",
+    "caption": "學生準備作品、字卡與說明內容，錄製專題發表影片。",
+    "source": "使用者提供／00_專案／寫字魔法師／481249960_3837253576549061_5074819180897802478_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-04.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "學生與教師和發光中的寫字魔法師作品合影。",
+    "caption": "完成測試後，團隊與顯示彩色筆畫的作品合影。",
+    "source": "使用者提供／00_專案／寫字魔法師／482193286_3837253769882375_4684047998713220742_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-05.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "教師與學生在圖書空間中討論寫字魔法師的操作方式。",
+    "caption": "團隊透過實際操作觀察使用反應，討論字卡與面板的改進方向。",
+    "source": "使用者提供／00_專案／寫字魔法師／482208162_3837253536549065_2568858874856858826_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-06.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師學生團隊在教室進行線上發表。",
+    "caption": "學生面對視訊會議畫面進行作品說明與線上交流。",
+    "source": "使用者提供／00_專案／寫字魔法師／480738054_3837253796549039_308170229678125531_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-07.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "教師與學生在教室整理寫字魔法師的機構草圖與元件。",
+    "caption": "團隊從草圖與元件測試開始，逐步整理作品的機構與操作構想。",
+    "source": "使用者提供／00_專案／寫字魔法師／482191813_3837253346549084_1266259903363516822_n.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-08.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師面板上的TTP223觸控感測器與WS2812 LED交錯排列。",
+    "caption": "觸控感測器與全彩LED交錯排列，形成可描寫與發光的互動區域。",
+    "source": "寫字魔法師-Codex完整資料包／複審文件擷取／寫字魔法師-02-感測器與LED整合.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-09.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師面板背面的Arduino、多工器與控制配線。",
+    "caption": "面板背面以多工器整理大量感測輸入，再交由Arduino控制燈光回饋。",
+    "source": "寫字魔法師-Codex完整資料包／複審文件擷取／寫字魔法師-05-多工器與控制電路.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-10.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "Arduino開發環境中顯示寫字魔法師的程式碼。",
+    "caption": "Arduino程式讀取多工器通道，並控制對應的全彩LED燈光。",
+    "source": "寫字魔法師-Codex完整資料包／複審文件擷取／寫字魔法師-06-Arduino程式設計.png",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-11.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "使用者沿著字卡筆畫觸碰，面板亮起彩色燈光。",
+    "caption": "手指依筆畫移動時，觸碰位置會依序亮燈，提供即時操作回饋。",
+    "source": "寫字魔法師-Codex完整資料包／複審文件擷取／寫字魔法師-07-字卡描寫測試.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/writing-wizard/gallery-12.webp",
+    "projectSlug": "writing-wizard",
+    "type": "gallery",
+    "alt": "寫字魔法師在暗處呈現完整的綠色發光文字。",
+    "caption": "完成筆畫操作後，面板以燈光呈現文字成果。",
+    "source": "寫字魔法師-Codex完整資料包／複審文件擷取／寫字魔法師-08-發光文字成果.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/please-water/cover.webp",
+    "projectSlug": "please-water",
+    "type": "cover",
+    "alt": "請幫我澆水智慧滴灌裝置與戶外植物實作",
+    "caption": "智慧滴灌原型安裝於植物旁，整合控制板、水泵、水箱與感測裝置。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第8頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-01.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "請幫我澆水作品說明與AI智慧農業示意圖",
+    "caption": "作品以自然語言降低學生理解智慧農業資料的門檻。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第1頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-02.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "請幫我澆水系統設計與資料處理流程",
+    "caption": "滴灌資料同步至雲端，再由AI轉譯為學生可理解的植物對話。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第4頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-03.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "請幫我澆水軟體架構圖",
+    "caption": "整合OpenAI、氣象開放資料、雲端試算表與農業滴灌裝置。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第5頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-04.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "請幫我澆水戶外原型與硬體配置",
+    "caption": "戶外實作照片呈現滴灌裝置、防護外殼及主要組件。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第8頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-05.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "Webduino積木程式與Google試算表滴灌紀錄",
+    "caption": "程式控制滴灌，並將日期與澆水資料保存至雲端。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第9頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/please-water/gallery-06.webp",
+    "projectSlug": "please-water",
+    "type": "gallery",
+    "alt": "請幫我澆水植物數位孿生對話畫面",
+    "caption": "學生透過AI頁面詢問植物狀況並閱讀資料分析。",
+    "source": "TWEF23015_請幫我澆水_5.pdf／第10頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/cover.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "cover",
+    "alt": "炫光餵魚秀完成品在暗處亮起多色LED",
+    "caption": "完成的鯉魚造型作品以LED照亮琉璃魚鱗，呈現鋼珠沿軌道移動時依序發光的炫光效果。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／10_完成品炫光效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-01.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "學生操作展示炫光餵魚秀完成品",
+    "caption": "學生展示完成的鯉魚造型玩具，可從魚嘴投入鋼珠，觀察魚鱗燈光依序亮起。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／02_成品操作示範.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-02.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "學生討論炫光餵魚秀設計構想",
+    "caption": "團隊從草圖討論作品造型、比例與結構。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／03_構想討論.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-03.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "炫光餵魚秀初步魚身設計草圖",
+    "caption": "學生展示魚身、魚尾與結構配置的初步草圖。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／04_學生設計草圖.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-04.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "學生在地面進行大型魚身放樣",
+    "caption": "以大型放樣確認魚身輪廓與實際製作比例。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／05_大型放樣.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-05.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "學生製作炫光餵魚秀立體骨架",
+    "caption": "依照放樣輪廓逐步組成立體魚身骨架。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／06_骨架製作.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-06.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "炫光餵魚秀戶外材料加工過程",
+    "caption": "師生進行骨架與外觀材料的加工製作。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／07_材料加工.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-07.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "炫光餵魚秀魚身內部電路與LED燈組",
+    "caption": "魚身內部可見竹片軌道、LED、接點線路與支撐結構。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／08_電路與燈組配置.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-08.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "炫光餵魚秀連接電腦進行系統整合測試",
+    "caption": "作品進行燈光與整體系統測試；畫面可見積木式程式介面，但是否為正式控制方式仍待原始程式確認。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／09_系統整合測試.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/feeding-koi-light-show/gallery-09.webp",
+    "projectSlug": "feeding-koi-light-show",
+    "type": "gallery",
+    "alt": "炫光餵魚秀完成品多色燈光展示",
+    "caption": "完成作品在暗處呈現多色LED炫光效果。",
+    "source": "炫光餵魚秀_10張關鍵截圖.zip／10_完成品炫光效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/cover.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "cover",
+    "alt": "完整竹管樂器亮起彩色燈光，兩位學生在旁介紹。",
+    "caption": "聲音與彩光同步的《逐光！竹光！》完整作品。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-10-完整作品發光.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-01.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "陳依汝與陳玄元手持琴槌，在逐光竹光作品前介紹團隊。",
+    "caption": "「戰鬥吧鯉魚！」團隊介紹《逐光！竹光！》。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-01-團隊介紹.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-02.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生近距離觀察並體驗竹製樂器。",
+    "caption": "從竹山竹樂器中尋找創作靈感。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-02-竹樂器田調.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-03.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生書寫設計想法，桌面放置竹管與電子元件。",
+    "caption": "從想法、草圖到竹管感測結構。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-03-發想與改造.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-04.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "竹樂器師傅向學生示範竹材處理與樂器製作。",
+    "caption": "拜訪師傅，學習在地竹工藝與竹樂器製作。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-04-學習竹材處理.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-05.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生依照尺寸規格標記並裁切竹管。",
+    "caption": "依音高需求裁切不同長度的竹管。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-05-裁切竹管.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-06.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生使用調音工具檢查竹管並進行細部刀削。",
+    "caption": "反覆調音與修整，讓竹管發出合適音高。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-06-調音與細部刀削.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-07.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生在竹管框架旁焊接並組裝感測與燈光電路。",
+    "caption": "把竹樂器、感測器與LED整合成完整作品。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-07-電路組裝.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-08.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "學生在電腦前使用MakeCode編寫micro:bit程式。",
+    "caption": "撰寫感測判斷與彩光控制程式。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-08-MakeCode程式設計.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/follow-light-bamboo/gallery-09.webp",
+    "projectSlug": "follow-light-bamboo",
+    "type": "gallery",
+    "alt": "兩位學生敲擊竹管，對應位置亮起藍色燈光。",
+    "caption": "跟著彩光提示進行互動演奏。",
+    "source": "逐光竹光-Codex完整資料包／逐光竹光-09-彩光互動演奏.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/cover.webp",
+    "projectSlug": "virus-battle",
+    "type": "cover",
+    "alt": "三位學生坐在完整的病毒射擊遊戲作品後方，前方有紅綠兩座發光大病毒",
+    "caption": "「閃亮小鯉魚」團隊與《打擊病毒大作戰》完整作品。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-01-團隊與作品.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-01.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "三位學生坐在完整的病毒射擊遊戲作品後方，前方有紅綠兩座發光大病毒",
+    "caption": "「閃亮小鯉魚」團隊與《打擊病毒大作戰》完整作品。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-01-團隊與作品.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-02.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生圍著桌上的病毒草圖討論遊戲設計",
+    "caption": "團隊從草圖開始討論病毒目標與遊戲規則。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-02-構想討論.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-03.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生在大型瓦楞紙板上描繪遊戲背板圖案",
+    "caption": "學生將小幅草圖放大成完整遊戲場景。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-03-版面設計.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-04.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生在教師指導下使用熱風工具加工回收光碟零件",
+    "caption": "團隊運用回收光碟製作病毒圓盤機構。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-04-病毒圓盤製作.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-05.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "兩位學生以顏料彩繪充滿病毒造型的大型背板",
+    "caption": "鮮明色彩讓遊戲場景呈現病毒世界的動感。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-05-彩繪場景.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-06.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生使用烙鐵把LED燈條固定在圓形底板上",
+    "caption": "學生焊接並測試病毒圓盤的發光元件。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-06-焊接發光元件.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-07.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生在背板後方以熱熔膠固定線材與機構",
+    "caption": "團隊將燈光、感測器、翻轉機構與背板整合。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-07-背板整合組裝.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-08.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生站在大型彩繪背板、發光病毒目標與紅綠大病毒旁解說",
+    "caption": "完整作品包含隨機目標區、主控板及紅綠兩側回饋裝置。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-08-完整作品展示.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-09.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "學生手持光筆瞄準背板上發亮的病毒目標中心",
+    "caption": "玩家必須在目標亮起時用光筆射擊中心。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-09-光筆射擊.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/virus-battle/gallery-10.webp",
+    "projectSlug": "virus-battle",
+    "type": "gallery",
+    "alt": "兩位玩家分別拿著光筆面向病毒射擊遊戲",
+    "caption": "作品可讓玩家分成兩隊輪流挑戰。",
+    "source": "打擊病毒大作戰-Codex完整資料包／打擊病毒大作戰-10-雙人競賽.jpg",
+    "verified": false,
+    "displayRatio": "16:9"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/cover.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "cover",
+    "alt": "八位布農人物圍成圓形並呈現多色燈光",
+    "caption": "八部合音完成品以八位穿著編織服飾的人物、圓形場景與多色燈光呈現。",
+    "source": "八部合音_10張關鍵截圖.zip／09_完成品整體效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-01.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "布農八部合音作品片頭",
+    "caption": "片頭呈現布農八部合音作品名稱與文化主題。",
+    "source": "八部合音_10張關鍵截圖.zip／01_作品片頭.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-02.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "布農八部合音文化編織與技術概念說明",
+    "caption": "從布農文化、八部合音與編織工藝建立作品概念。",
+    "source": "八部合音_10張關鍵截圖.zip／04_文化與技術說明.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-03.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "師生檢視八部合音資料並討論設計",
+    "caption": "團隊共同整理資料及規劃作品呈現方式。",
+    "source": "八部合音_10張關鍵截圖.zip／05_設計討論.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-04.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "學生使用電腦設計八部合音控制程式",
+    "caption": "學生進行程式與控制介面設計。",
+    "source": "八部合音_10張關鍵截圖.zip／06_程式設計與控制.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-05.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "布農圖騰編織格線與色彩規劃",
+    "caption": "透過格線和色彩配置規劃人物服飾圖騰。",
+    "source": "八部合音_10張關鍵截圖.zip／07_編織圖樣規劃.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-06.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "學生操作木製織具進行線材編織",
+    "caption": "依照圖樣規劃實際完成布農圖騰編織。",
+    "source": "八部合音_10張關鍵截圖.zip／08_編織實作.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-07.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "八部合音環形人物場景與燈光效果",
+    "caption": "八位人物圍成合唱場景，呈現多色燈光互動效果。",
+    "source": "八部合音_10張關鍵截圖.zip／09_完成品整體效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/gallery-08.webp",
+    "projectSlug": "eight-harmony-archive",
+    "type": "gallery",
+    "alt": "八部合音作品公開成果發表",
+    "caption": "作品於公開場合展示文化、工藝與科技整合成果。",
+    "source": "八部合音_10張關鍵截圖.zip／10_成果發表.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-01.webp",
+    "projectSlug": "eight-harmony",
+    "type": "cover",
+    "alt": "多尊穿著傳統服飾的人偶圍成圓圈，在紅、藍與紫色LED燈光下展演",
+    "caption": "環形人偶在黑暗中亮起彩色燈光，重現多人圍圈共唱的舞臺意象。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片00:14截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-01.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "多尊穿著傳統服飾的人偶圍成圓圈，在紅、藍與紫色LED燈光下展演",
+    "caption": "環形人偶在黑暗中亮起彩色燈光，重現多人圍圈共唱的舞臺意象。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片00:14截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-02.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "兩位戴耳機的族人在錄音燈光前演唱，團隊進行現地聲音記錄",
+    "caption": "團隊進行現地錄音與文化田調，聆聽族人示範Pasibutbut歌聲。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片02:35截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-03.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "學生在多部電腦前操作視覺化程式介面，討論聲光展演流程",
+    "caption": "學生使用電腦整理資料，設計分段錄音、感測器觸發與燈光控制流程。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片03:00截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-04.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "彩色線材排列在木製織架上，學生在背景進行傳統服飾編織",
+    "caption": "學生操作簡易織架，編製人偶使用的彩色服飾布片。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片03:36截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-05.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "一名學生坐在工作桌前，手持黏土並製作多尊人物造型",
+    "caption": "學生以塑形材料製作歌者人偶，調整人物造型與姿態。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片04:24截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/eight-harmony/codex-frame-06.webp",
+    "projectSlug": "eight-harmony",
+    "type": "gallery",
+    "alt": "鯉魚國小與久美國小師生在競賽場館外，手持八部合音作品看板合影",
+    "caption": "跨校團隊完成全國競賽展示，於《八部合音》作品看板前合影。",
+    "source": "使用者提供／八部合音-Codex完整資料包／影片05:36截圖",
+    "verified": false,
+    "displayRatio": "4:3"
+  },
+  {
+    "fileName": "/images/projects/koi-king/cover.webp",
+    "projectSlug": "koi-king",
+    "type": "cover",
+    "alt": "發光鯉魚浮沉子在透明水瓶中展示",
+    "caption": "完成的發光小魚浮沉子置於透明水瓶中，玩家可透過壓力變化控制小魚升降。",
+    "source": "鯉魚王_10張關鍵截圖.zip／10_完成效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-01.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生討論鯉魚王作品構想",
+    "caption": "三位四年級學生討論如何把浮沉子、發光效果與鯉魚造型結合；人物影像授權待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／01_作品片頭.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-02.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生進行鯉魚王設計討論",
+    "caption": "團隊持續整理發光浮沉小魚的操作構想與製作方向；人物影像授權待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／02_構想與設計.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-03.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "鯉魚王作品影片的設計階段標題畫面",
+    "caption": "作品影片由創意發想進入設計階段。",
+    "source": "鯉魚王_10張關鍵截圖.zip／03_材料準備.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-04.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "三位學生展示裝有小魚浮沉子的透明瓶模型",
+    "caption": "學生以透明瓶模型說明小魚浮沉的水壓、空氣體積、密度與浮力原理；人物影像授權待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／04_造型製作.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-05.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生進行鯉魚王麵包板接線",
+    "caption": "學生使用麵包板進行LED與相關控制電路接線；控制板型號及完整功能待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／05_機構組裝.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-06.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生進行鯉魚王初步測試",
+    "caption": "團隊完成部分電路後進行初步測試，確認發光與接線狀態；人物影像授權待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／06_電路與控制.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-07.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生使用視覺化積木程式測試鯉魚王發光功能",
+    "caption": "學生撰寫視覺化積木程式，畫面包含燈泡圖示；程式是否只控制LED仍待原始檔案確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／07_細節加工.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-08.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生手持鯉魚王小型發光元件進行組裝測試",
+    "caption": "學生手持小型元件進行組裝與發光測試；確切元件及作用待原始紀錄確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／08_操作測試.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-09.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "學生完成鯉魚王魚形模型外觀",
+    "caption": "學生封裝橘色小魚外殼，準備將發光元件與浮沉結構整合；人物影像授權待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／09_完整作品展示.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/koi-king/gallery-10.webp",
+    "projectSlug": "koi-king",
+    "type": "gallery",
+    "alt": "鯉魚王發光小魚在透明水瓶中的完成效果",
+    "caption": "完成的發光小魚在透明水瓶中展示浮沉玩法，正式加壓方式與遊戲規則待確認。",
+    "source": "鯉魚王_10張關鍵截圖.zip／10_完成效果.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/cover.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "cover",
+    "alt": "打擊病毒救地球大型發射裝置與雙面發光病毒遊戲版",
+    "caption": "升級版本擴充大型發射裝置、發光病毒目標及雙面遊戲版，適合多人公開展演。",
+    "source": "使用者提供／打擊病毒救地球／492009193_29567092796209233_1861032407903472157_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-01.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "學生展示打擊病毒救地球完整雙面遊戲版與紅綠病毒裝置",
+    "caption": "升級版本保留紅綠病毒角色，並增加大型遊戲版及更多互動目標。",
+    "source": "使用者提供／打擊病毒救地球／473779744_1084385410153008_1071723557148376965_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-02.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "打擊病毒救地球紅色病毒裝置內部LED與控制線路",
+    "caption": "近距離呈現病毒角色內部燈光、線路及透明突起結構。",
+    "source": "使用者提供／打擊病毒救地球／474241643_1084384986819717_8945875971924879197_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-03.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "學生在Maker Party展場操作打擊病毒救地球大型裝置",
+    "caption": "學生穿著工作服向參觀者示範大型發射裝置與遊戲版。",
+    "source": "使用者提供／打擊病毒救地球／492009193_29567092796209233_1861032407903472157_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-04.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "時任副總統陳建仁先生參觀打擊病毒救地球並聽取學生解說",
+    "caption": "學生在公開展場向時任副總統陳建仁先生介紹升級版作品。",
+    "source": "使用者提供／打擊病毒救地球／FB_IMG_1670038813679.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-05.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "學生在教室測試打擊病毒救地球大型病毒模型",
+    "caption": "團隊在教室進行大型病毒模型及操作方式測試。",
+    "source": "使用者提供／打擊病毒救地球／IMAG5778.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-06.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "打擊病毒救地球團隊於Maker Party展位展示成果",
+    "caption": "學生與指導者在完整展位前留下成果紀錄。",
+    "source": "使用者提供／打擊病毒救地球／IMAG5811.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-07.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "學生在公開展場向參觀者解說打擊病毒救地球",
+    "caption": "展場中由學生操作及解說作品，觀眾近距離參與體驗。",
+    "source": "使用者提供／打擊病毒救地球／IMAG5868.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/save-earth-virus/gallery-08.webp",
+    "projectSlug": "save-earth-virus",
+    "type": "gallery",
+    "alt": "打擊病毒救地球投影場景中的病毒目標與發光操作器",
+    "caption": "展場延伸互動以投影病毒目標及發光操作器呈現。",
+    "source": "使用者提供／打擊病毒救地球／IMAG5905.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/cover.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "cover",
+    "alt": "綠能管家團隊展示第2屆麥克松科技教育創意競賽甲組銅質獎與最佳人氣獎",
+    "caption": "學生在成果展示現場合影，呈現甲組銅質獎與最佳人氣獎紀錄。",
+    "source": "使用者提供／綠能管家／513654273_10097648790318199_5656928570592937983_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/gallery-01.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "gallery",
+    "alt": "綠能管家團隊於第2屆麥克松科技教育創意競賽頒獎典禮展示甲組銅質獎",
+    "caption": "團隊在頒獎典禮留下甲組銅質獎成果紀錄。",
+    "source": "使用者提供／綠能管家／513906825_10097648770318201_4346686473956236119_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/gallery-02.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "gallery",
+    "alt": "綠能管家團隊於第2屆麥克松科技教育創意競賽頒獎典禮展示最佳人氣獎",
+    "caption": "團隊在頒獎典禮展示最佳人氣獎。",
+    "source": "使用者提供／綠能管家／514353407_10097648960318182_491162942169912906_n.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/gallery-03.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "gallery",
+    "alt": "綠能管家以MQTT連接智慧家庭、micro:bit、凱比機器人與Google Sheets的架構示意圖",
+    "caption": "系統使用MQTT串連家電控制、微控制器、語音互動與雲端資料服務。",
+    "source": "使用者提供／綠能管家／messageImage_1785927148519.jpg",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/infographic-01.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "infographic",
+    "alt": "綠能管家凱比機器人智慧家電與生電資料監控模組說明",
+    "caption": "企畫書說明語音與遠端家電控制，以及太陽能生電資料的收集、分析與警報。",
+    "source": "《綠能管家 智慧生活》科技教育創意實作競賽企畫書第3頁",
+    "verified": false
+  },
+  {
+    "fileName": "/images/projects/green-energy-manager/infographic-02.webp",
+    "projectSlug": "green-energy-manager",
+    "type": "infographic",
+    "alt": "綠能管家家庭用電資料監控模組說明",
+    "caption": "ESP32收集交流電流感測資料並上傳Google Sheets，供使用者分析家庭用電。",
+    "source": "《綠能管家 智慧生活》科技教育創意實作競賽企畫書第4頁",
+    "verified": false
+  }
+]
