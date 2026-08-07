@@ -5,6 +5,7 @@ import { featuredProjects } from "@/data/projects";
 import highlightsData from "@/codex-update/highlights.json";
 import timelineData from "@/codex-update/timeline.json";
 import siteContent from "@/codex-update/site-content.json";
+import { assetPath } from "@/lib/asset-path";
 
 const highlightIcons = ["⌕", "竹", "AI", "↻", "＋", "◎"];
 const highlightColors = ["bg-primary/15 text-primary", "bg-secondary/20 text-primary", "bg-accent/15 text-accent", "bg-[rgb(var(--accent)/.12)] text-accent", "bg-secondary/20 text-primary", "bg-primary/15 text-primary"];
@@ -17,7 +18,7 @@ export default function Home() {
       <section aria-labelledby="home-hero-title" className="relative overflow-hidden border-b border-line bg-surface">
         <h1 id="home-hero-title" className="sr-only">{siteContent.heroTitle}｜{siteContent.siteName}</h1>
         <Image
-          src="/images/home-hero-forest-v2.png"
+          src={assetPath("/images/home-hero-forest-v2.png")}
           alt={`${siteContent.heroTitle}，兩位學生在森林裡觀察太陽能鳥屋，旁邊有松鼠與梅花鹿；${siteContent.siteName}`}
           width={2172}
           height={724}
