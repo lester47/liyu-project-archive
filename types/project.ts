@@ -111,7 +111,7 @@ export interface SourceProject {
 export interface Project extends SourceProject {
   year: string;
   competition: string;
-  competitionCategories: string[];
+  competitionCategories: import("@/data/competition-categories").CompetitionCategory[];
   topicCategories: import("@/data/topic-categories").TopicCategory[];
   technologyCategories: import("@/data/technology-categories").TechnologyCategory[];
   statusLabel: ProjectStatus;

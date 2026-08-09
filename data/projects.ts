@@ -3,6 +3,7 @@ import rawAssets from "@/codex-update/assets-manifest.json";
 import type { Project, ProjectAsset, ProjectStatus, SourceProject } from "@/types/project";
 import { getTopicCategories } from "@/data/topic-categories";
 import { getTechnologyCategories } from "@/data/technology-categories";
+import { getCompetitionCategory } from "@/data/competition-categories";
 
 const statusLabels: Record<SourceProject["status"], ProjectStatus> = {
   completed: "成果完整",
@@ -11,11 +12,6 @@ const statusLabels: Record<SourceProject["status"], ProjectStatus> = {
 };
 
 const assets = rawAssets as ProjectAsset[];
-
-// 篩選器使用競賽主名稱，讓不同屆次都歸入同一分類；
-// 詳細頁仍保留資料中的完整屆次名稱。
-const competitionCategory = (name: string) =>
-  name.replace(/^(?:第\s*\d+\s*屆|首屆)\s*/, "").trim();
 
 const compactAwardCompetition = (projectSlug: string, competition: string) =>
   ["move-move", "green-wheel"].includes(projectSlug) && competition === "國教署科技教育創意實作競賽"
@@ -28,7 +24,7 @@ export const projects: Project[] = (rawProjects as SourceProject[]).map((project
   // 避免同一批作品同時產生「2025」與「2025－2026」兩種選項。
   year: String(project.yearStart),
   competition: project.competitions[0]?.name ?? "待補",
-  competitionCategories: [...new Set(project.competitions.map((item) => competitionCategory(item.name)))],
+  competitionCategories: [...new Set(project.competitions.map((item) => getCompetitionCategory(item.name)))],
   topicCategories: getTopicCategories(project.topics),
   technologyCategories: getTechnologyCategories(project.technologies),
   statusLabel: statusLabels[project.status],
