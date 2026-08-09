@@ -4,6 +4,7 @@ import resources from "@/codex-update/teacher-resources.json";
 import { projects } from "@/data/projects";
 import { teachingResources } from "@/data/teaching-resources";
 import { competitionCategories, type CompetitionCategory } from "@/data/competition-categories";
+import { assetPath } from "@/lib/asset-path";
 
 const competitionCardStyles: Record<CompetitionCategory, { card: string; upper: string; badge: string; dot: string }> = {
   "1. 索尼科學大賞": { card: "border-accent/35", upper: "bg-accent/40", badge: "bg-accent text-white", dot: "bg-accent" },
@@ -40,7 +41,7 @@ export default function ResourcesPage() {
             <div className="flex flex-1 flex-col px-6 pb-6 pt-5">
               <p className="flex-1 leading-7 text-muted">{resource.title}</p>
               <div className="mt-6 grid gap-3 sm:grid-cols-2">
-                <a href={resource.file} download className="grid min-h-11 place-items-center rounded-full bg-primary px-4 py-2.5 text-center text-sm font-black text-white transition hover:opacity-90">下載 Word 教案</a>
+                <a href={assetPath(resource.file)} download className="grid min-h-11 place-items-center rounded-full bg-primary px-4 py-2.5 text-center text-sm font-black text-white transition hover:opacity-90">下載 Word 教案</a>
                 <Link href={`/projects/${project.slug}`} className="grid min-h-11 place-items-center rounded-full border border-primary px-4 py-2.5 text-center text-sm font-black text-primary transition hover:bg-primary/10">查看專題</Link>
               </div>
             </div>
