@@ -5,12 +5,12 @@ import { projects } from "@/data/projects";
 import { teachingResources } from "@/data/teaching-resources";
 import { competitionCategories, type CompetitionCategory } from "@/data/competition-categories";
 
-const competitionCardStyles: Record<CompetitionCategory, { card: string; badge: string; dot: string }> = {
-  "1. 索尼科學大賞": { card: "border-accent/35 bg-accent/10", badge: "bg-accent text-white", dot: "bg-accent" },
-  "2. IEYI發明展／世界賽": { card: "border-secondary/45 bg-secondary/15", badge: "bg-secondary text-ink", dot: "bg-secondary" },
-  "3. 科技教育實作競賽": { card: "border-primary/35 bg-primary/10", badge: "bg-primary text-white", dot: "bg-primary" },
-  "4. 麥克松": { card: "border-[rgb(var(--warning)/.45)] bg-[rgb(var(--warning)/.14)]", badge: "bg-[rgb(var(--warning))] text-ink", dot: "bg-[rgb(var(--warning))]" },
-  "5. 其他競賽": { card: "border-line bg-surface", badge: "bg-muted text-white", dot: "bg-muted" },
+const competitionCardStyles: Record<CompetitionCategory, { card: string; upper: string; badge: string; dot: string }> = {
+  "1. 索尼科學大賞": { card: "border-accent/35", upper: "bg-accent/10", badge: "bg-accent text-white", dot: "bg-accent" },
+  "2. IEYI發明展／世界賽": { card: "border-secondary/45", upper: "bg-secondary/15", badge: "bg-secondary text-ink", dot: "bg-secondary" },
+  "3. 科技教育實作競賽": { card: "border-primary/35", upper: "bg-primary/10", badge: "bg-primary text-white", dot: "bg-primary" },
+  "4. 麥克松": { card: "border-[rgb(var(--warning)/.45)]", upper: "bg-[rgb(var(--warning)/.14)]", badge: "bg-[rgb(var(--warning))] text-ink", dot: "bg-[rgb(var(--warning))]" },
+  "5. 其他競賽": { card: "border-line", upper: "bg-muted/10", badge: "bg-muted text-white", dot: "bg-muted" },
 };
 
 export default function ResourcesPage() {
@@ -32,13 +32,17 @@ export default function ResourcesPage() {
           if (!project) return null;
           const category = project.competitionCategories[0] ?? "5. 其他競賽";
           const styles = competitionCardStyles[category];
-          return <article key={resource.projectNumber} className={`flex min-h-64 flex-col rounded-3xl border p-6 shadow-soft ${styles.card}`}>
-            <div className="flex flex-wrap items-center justify-between gap-2"><span className={`w-fit rounded-full px-3 py-1 text-sm font-black ${styles.badge}`}>No. {resource.projectNumber}</span><span className="rounded-full bg-surface/80 px-3 py-1 text-xs font-bold text-muted">{category.replace(/^\d+\.\s*/, "")}</span></div>
-            <h3 className="mt-4 text-xl font-black text-ink">{project.title}</h3>
-            <p className="mt-3 flex-1 leading-7 text-muted">{resource.title}</p>
-            <div className="mt-6 grid gap-3 sm:grid-cols-2">
-              <a href={resource.file} download className="grid min-h-11 place-items-center rounded-full bg-primary px-4 py-2.5 text-center text-sm font-black text-white transition hover:opacity-90">下載 Word 教案</a>
-              <Link href={`/projects/${project.slug}`} className="grid min-h-11 place-items-center rounded-full border border-primary px-4 py-2.5 text-center text-sm font-black text-primary transition hover:bg-primary/10">查看專題</Link>
+          return <article key={resource.projectNumber} className={`flex min-h-64 flex-col overflow-hidden rounded-3xl border bg-surface shadow-soft ${styles.card}`}>
+            <div className={`border-b border-line/70 px-6 pb-5 pt-6 ${styles.upper}`}>
+              <div className="flex flex-wrap items-center justify-between gap-2"><span className={`w-fit rounded-full px-3 py-1 text-sm font-black ${styles.badge}`}>No. {resource.projectNumber}</span><span className="rounded-full bg-surface/80 px-3 py-1 text-xs font-bold text-muted">{category.replace(/^\d+\.\s*/, "")}</span></div>
+              <h3 className="mt-4 text-xl font-black text-ink">{project.title}</h3>
+            </div>
+            <div className="flex flex-1 flex-col px-6 pb-6 pt-5">
+              <p className="flex-1 leading-7 text-muted">{resource.title}</p>
+              <div className="mt-6 grid gap-3 sm:grid-cols-2">
+                <a href={resource.file} download className="grid min-h-11 place-items-center rounded-full bg-primary px-4 py-2.5 text-center text-sm font-black text-white transition hover:opacity-90">下載 Word 教案</a>
+                <Link href={`/projects/${project.slug}`} className="grid min-h-11 place-items-center rounded-full border border-primary px-4 py-2.5 text-center text-sm font-black text-primary transition hover:bg-primary/10">查看專題</Link>
+              </div>
             </div>
           </article>;
         })}
