@@ -53,6 +53,19 @@ export default function Home() {
         </div>
       </section>
 
+      <section aria-labelledby="podcast-entry-title" className="border-t border-line bg-canvas py-14 sm:py-16">
+        <div className="wide-shell">
+          <article className="flex flex-col items-start justify-between gap-6 rounded-[2rem] border border-line bg-surface p-7 shadow-soft sm:p-9 lg:flex-row lg:items-center">
+            <div>
+              <p className="eyebrow">🎧 15 分鐘聽懂鯉魚國小十多年的創意教育旅程</p>
+              <h2 id="podcast-entry-title" className="mt-3 text-3xl font-black text-ink">竹林裡的 AI 奇蹟</h2>
+              <p className="mt-3 max-w-3xl leading-7 text-muted">從竹子、感測器與科學玩具出發，聽見孩子如何一路走向 AI、物聯網與真實問題解決。</p>
+            </div>
+            <Link href="/about#podcast" className="button-primary shrink-0">前往收聽 →</Link>
+          </article>
+        </div>
+      </section>
+
       <section className="border-y border-line bg-[rgb(var(--surface-muted))] py-20 sm:py-24"><div className="wide-shell grid gap-7 lg:grid-cols-2"><article className="relative overflow-hidden rounded-[2rem] bg-primary p-8 text-white shadow-soft sm:p-10"><span aria-hidden="true" className="absolute -right-8 -top-8 text-9xl opacity-10">AI</span><p className="text-sm font-black tracking-[.16em] text-white/70">AI COLLABORATION</p><h2 className="mt-4 text-3xl font-black">AI 協作自主學習</h2><p className="mt-4 max-w-xl text-base leading-8 text-white/80">學習提問、查證、反思與揭露 AI 使用方式，讓科技成為負責任的思考夥伴。</p><Link href="/ai-collaboration" className="mt-7 inline-flex min-h-11 items-center rounded-full bg-surface px-6 font-black text-primary">認識協作模式 →</Link></article><article className="relative overflow-hidden rounded-[2rem] border border-line bg-surface p-8 shadow-soft sm:p-10"><span aria-hidden="true" className="absolute -right-4 -top-5 text-8xl opacity-10">📚</span><p className="eyebrow">FOR EDUCATORS</p><h2 className="mt-4 text-3xl font-black text-ink">教師專區</h2><p className="mt-4 max-w-xl text-base leading-8 text-muted">彙整教學引導、歷程記錄與成果評量工具，讓歷屆經驗成為下一堂課的養分。</p><Link href="/resources" className="button-primary mt-7">前往學習資源 →</Link></article></div></section>
 
       <section aria-labelledby="belief-title" className="relative overflow-hidden bg-canvas py-20 sm:py-28"><span aria-hidden="true" className="absolute bottom-0 left-0 text-9xl opacity-10">🌲</span><div className="wide-shell grid items-center gap-10 lg:grid-cols-[.8fr_1.2fr]"><div className="rounded-[2.5rem] border border-line bg-gradient-to-br from-secondary/25 via-surface to-accent/15 p-10 text-center shadow-soft"><span aria-hidden="true" className="text-7xl">🌱</span><p className="mt-5 text-lg font-black text-primary">好奇心，是每個專題的起點</p></div><div><p className="eyebrow">OUR BELIEF</p><h2 id="belief-title" className="mt-3 text-3xl font-black text-ink sm:text-4xl">讓孩子從自己的土地出發，成為改變世界的人</h2><p className="mt-5 text-lg leading-9 text-muted">我們相信，專題不是為了得到唯一答案，而是練習看見問題、尋找證據、動手驗證並與他人分享。每一段完整保存的歷程，都能成為孩子持續學習的力量。</p><Link href="/about" className="button-secondary mt-7">認識我們的教育理念</Link></div></div></section>
