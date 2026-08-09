@@ -6,11 +6,11 @@ import { teachingResources } from "@/data/teaching-resources";
 import { competitionCategories, type CompetitionCategory } from "@/data/competition-categories";
 
 const competitionCardStyles: Record<CompetitionCategory, { card: string; upper: string; badge: string; dot: string }> = {
-  "1. 索尼科學大賞": { card: "border-accent/35", upper: "bg-accent/10", badge: "bg-accent text-white", dot: "bg-accent" },
-  "2. IEYI發明展／世界賽": { card: "border-secondary/45", upper: "bg-secondary/15", badge: "bg-secondary text-ink", dot: "bg-secondary" },
-  "3. 科技教育實作競賽": { card: "border-primary/35", upper: "bg-primary/10", badge: "bg-primary text-white", dot: "bg-primary" },
-  "4. 麥克松": { card: "border-[rgb(var(--warning)/.45)]", upper: "bg-[rgb(var(--warning)/.14)]", badge: "bg-[rgb(var(--warning))] text-ink", dot: "bg-[rgb(var(--warning))]" },
-  "5. 其他競賽": { card: "border-line", upper: "bg-muted/10", badge: "bg-muted text-white", dot: "bg-muted" },
+  "1. 索尼科學大賞": { card: "border-accent/35", upper: "bg-accent/40", badge: "bg-accent text-white", dot: "bg-accent" },
+  "2. IEYI發明展／世界賽": { card: "border-secondary/45", upper: "bg-secondary/40", badge: "bg-secondary text-ink", dot: "bg-secondary" },
+  "3. 科技教育實作競賽": { card: "border-primary/35", upper: "bg-primary/40", badge: "bg-primary text-white", dot: "bg-primary" },
+  "4. 麥克松": { card: "border-[rgb(var(--warning)/.45)]", upper: "bg-[rgb(var(--warning)/.4)]", badge: "bg-[rgb(var(--warning))] text-ink", dot: "bg-[rgb(var(--warning))]" },
+  "5. 其他競賽": { card: "border-line", upper: "bg-muted/40", badge: "bg-muted text-white", dot: "bg-muted" },
 };
 
 export default function ResourcesPage() {
